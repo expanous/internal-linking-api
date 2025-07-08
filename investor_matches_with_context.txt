@@ -1,0 +1,324 @@
+=== DETAILED MATCHES WITH CONTEXT FOR 'WHAT IS INVESTOR' ===
+
+Total detailed matches found: 37
+
+Match 1:
+- matched_phrase: investor
+- context: What is an investor and how do they influence markets?
+
+John Pierpont Morgan (founder of JPMorgan) was once asked to forecast how the stock markets would perform and his response was, ‘It will fluctuate’....
+- target_page: https://capital.com//en-int/learn/glossary/investor-definition
+
+Match 2:
+- matched_phrase: stock market
+- context: What is an investor and how do they influence markets?
+
+John Pierpont Morgan (founder of JPMorgan) was once asked to forecast how the stock markets would perform and his response was, ‘It will fluctuate’. An investor embraces the risks of these market fluctuations, as they also present the opportunity for wealth creation....
+- target_page: https://capital.com//en-int/learn/glossary/stock-market-definition
+
+Match 3:
+- matched_phrase: risk
+- context: ...under of JPMorgan) was once asked to forecast how the stock markets would perform and his response was, ‘It will fluctuate’. An investor embraces the risks of these market fluctuations, as they also present the opportunity for wealth creation. 
+
+What is an investor?
+An investor is a person or institution that allocates capital with the expectation of generating a return....
+- target_page: https://capital.com//en-int/learn/glossary/risk-definition
+
+Match 4:
+- matched_phrase: capital
+- context: ...fluctuations, as they also present the opportunity for wealth creation. 
+
+What is an investor?
+An investor is a person or institution that allocates capital with the expectation of generating a return. This capital allocation can involve purchasing stocks, bonds, or other financial instruments. The returns come in various forms, such as capital gains, dividends, or interest....
+- target_page: https://capital.com//en-int/learn/glossary/capital-definition
+
+Match 5:
+- matched_phrase: returns
+- context: ...tunity for wealth creation. 
+
+What is an investor?
+An investor is a person or institution that allocates capital with the expectation of generating a return. This capital allocation can involve purchasing stocks, bonds, or other financial instruments. The returns come in various forms, such as capital gains, dividends, or interest....
+- target_page: https://capital.com//en-int/learn/glossary/returns-definition
+
+Match 6:
+- matched_phrase: bond
+- context: ...is a person or institution that allocates capital with the expectation of generating a return. This capital allocation can involve purchasing stocks, bonds, or other financial instruments. The returns come in various forms, such as capital gains, dividends, or interest. The goal is to put money to work today to grow wealth over time.
+
+Investors play a pivotal role in the global financial markets, serving as  the lifeblood of the economy....
+- target_page: https://capital.com//en-int/learn/glossary/bond-definition
+
+Match 7:
+- matched_phrase: returns
+- context: ...apital with the expectation of generating a return. This capital allocation can involve purchasing stocks, bonds, or other financial instruments. The returns come in various forms, such as capital gains, dividends, or interest. The goal is to put money to work today to grow wealth over time.
+
+Investors play a pivotal role in the global financial markets, serving as  the lifeblood of the economy....
+- target_page: https://capital.com//en-int/learn/glossary/returns-definition
+
+Match 8:
+- matched_phrase: dividend
+- context: ...is capital allocation can involve purchasing stocks, bonds, or other financial instruments. The returns come in various forms, such as capital gains, dividends, or interest. The goal is to put money to work today to grow wealth over time.
+
+Investors play a pivotal role in the global financial markets, serving as  the lifeblood of the economy....
+- target_page: https://capital.com//en-int/learn/glossary/dividend-definition
+
+Match 9:
+- matched_phrase: investor
+- context: .... The returns come in various forms, such as capital gains, dividends, or interest. The goal is to put money to work today to grow wealth over time.
+
+Investors play a pivotal role in the global financial markets, serving as  the lifeblood of the economy. They shape market trends, fund innovative startups, contribute to business growth and influence how capital flows through the  economy....
+- target_page: https://capital.com//en-int/learn/glossary/investor-definition
+
+Match 10:
+- matched_phrase: financial market
+- context: ...capital gains, dividends, or interest. The goal is to put money to work today to grow wealth over time.
+
+Investors play a pivotal role in the global financial markets, serving as  the lifeblood of the economy. They shape market trends, fund innovative startups, contribute to business growth and influence how capital flows through the  economy....
+- target_page: https://capital.com//en-int/learn/glossary/financial-market-definition
+
+Match 11:
+- matched_phrase: market trend
+- context: ...today to grow wealth over time.
+
+Investors play a pivotal role in the global financial markets, serving as  the lifeblood of the economy. They shape market trends, fund innovative startups, contribute to business growth and influence how capital flows through the  economy. Investors provide the liquidity necessary for markets to function, and their actions can determine the price of stocks, commodities and even currencies.
+
+Are investors different from traders?...
+- target_page: https://capital.com//en-int/learn/glossary/market-trend-definition
+
+Match 12:
+- matched_phrase: liquidity
+- context: ...pe market trends, fund innovative startups, contribute to business growth and influence how capital flows through the  economy. Investors provide the liquidity necessary for markets to function, and their actions can determine the price of stocks, commodities and even currencies.
+
+Are investors different from traders? 
+
+While both investors and traders participate in the financial markets, their approaches and time horizons differ....
+- target_page: https://capital.com//en-int/learn/glossary/liquidity-definition
+
+Match 13:
+- matched_phrase: trader
+- context: ...ecessary for markets to function, and their actions can determine the price of stocks, commodities and even currencies.
+
+Are investors different from traders? 
+
+While both investors and traders participate in the financial markets, their approaches and time horizons differ. Investors typically take a long-term view – they aim to build wealth over months or even years....
+- target_page: https://capital.com//en-int/learn/glossary/trader-definition
+
+Match 14:
+- matched_phrase: asset
+- context: ...a long-term view – they aim to build wealth over months or even years. They ignore short-term price fluctuations and focus on the underlying value of assets and how this may increase over time. 
+
+Traders, however, aim to profit from short-term price movements, which could happen over days or even minutes. Many traders use CFD trading, a form of derivatives trading which enables them to speculate on  both rising and falling markets....
+- target_page: https://capital.com//en-int/learn/glossary/asset-definition
+
+Match 15:
+- matched_phrase: portfolio
+- context: ...orised based on their approach and scale.
+
+Active vs passive investors
+
+Active investors
+
+Active investors take a hands-on approach to managing their portfolios. They dedicate time to researching individual assets, reviewing earnings reports, staying informed on news, and monitoring market trends. Active investors often use technical analysis to identify patterns and trends in order to predict future price movements....
+- target_page: https://capital.com//en-int/learn/glossary/portfolio-definition
+
+Match 16:
+- matched_phrase: order
+- context: ...ngs reports, staying informed on news, and monitoring market trends. Active investors often use technical analysis to identify patterns and trends in order to predict future price movements. Their aim is to beat the market. 
+
+Active investors sometimes use automated investing, using robo-advisors and other automated platforms to build and manage diversified portfolios based on their risk tolerance and financial goals....
+- target_page: https://capital.com//en-int/learn/glossary/order-definition
+
+Match 17:
+- matched_phrase: risk tolerance
+- context: ...estors sometimes use automated investing, using robo-advisors and other automated platforms to build and manage diversified portfolios based on their risk tolerance and financial goals.
+
+Passive investors
+
+Passive investors adopt a more hands-off strategy, typically using fundamental analysis  to evaluate the underlying value of the asset to determine whether it is overpriced or underpriced....
+- target_page: https://capital.com//en-int/learn/glossary/risk-tolerance-definition
+
+Match 18:
+- matched_phrase: fundamental analysis
+- context: ...portfolios based on their risk tolerance and financial goals.
+
+Passive investors
+
+Passive investors adopt a more hands-off strategy, typically using fundamental analysis  to evaluate the underlying value of the asset to determine whether it is overpriced or underpriced. Their aim is not to beat the market, but to mirror its overall performance....
+- target_page: https://capital.com//en-int/learn/glossary/fundamental-analysis-definition
+
+Match 19:
+- matched_phrase: asset
+- context: ...Passive investors
+
+Passive investors adopt a more hands-off strategy, typically using fundamental analysis  to evaluate the underlying value of the asset to determine whether it is overpriced or underpriced. Their aim is not to beat the market, but to mirror its overall performance. 
+
+Some of the strategies include:...
+- target_page: https://capital.com//en-int/learn/glossary/asset-definition
+
+Match 20:
+- matched_phrase: index funds
+- context: ...gies include:
+
+Buy-and-hold strategy: this involves purchasing assets and holding them for extended periods, ignoring short-term market fluctuations.
+Index fund investing: investing in index funds or exchange-traded funds (ETFs) that track market indices, such as the US 500 for broad exposure and diversification.
+
+Institutional vs retail investors
+
+Institutional investors are large organisations that pool funds from their clients to  invest on their behalf....
+- target_page: https://capital.com//en-int/learn/glossary/index-funds-definition
+
+Match 21:
+- matched_phrase: index funds
+- context: ...y: this involves purchasing assets and holding them for extended periods, ignoring short-term market fluctuations.
+Index fund investing: investing in index funds or exchange-traded funds (ETFs) that track market indices, such as the US 500 for broad exposure and diversification.
+
+Institutional vs retail investors
+
+Institutional investors are large organisations that pool funds from their clients to  invest on their behalf....
+- target_page: https://capital.com//en-int/learn/glossary/index-funds-definition
+
+Match 22:
+- matched_phrase: etf
+- context: ...holding them for extended periods, ignoring short-term market fluctuations.
+Index fund investing: investing in index funds or exchange-traded funds (ETFs) that track market indices, such as the US 500 for broad exposure and diversification.
+
+Institutional vs retail investors
+
+Institutional investors are large organisations that pool funds from their clients to  invest on their behalf....
+- target_page: https://capital.com//en-int/learn/glossary/etf-definition
+
+Match 23:
+- matched_phrase: diversification
+- context: ....
+Index fund investing: investing in index funds or exchange-traded funds (ETFs) that track market indices, such as the US 500 for broad exposure and diversification.
+
+Institutional vs retail investors
+
+Institutional investors are large organisations that pool funds from their clients to  invest on their behalf. Examples include asset management firms, hedge funds, and insurance companies....
+- target_page: https://capital.com//en-int/learn/glossary/diversification-definition
+
+Match 24:
+- matched_phrase: hedge fund
+- context: ...stitutional investors are large organisations that pool funds from their clients to  invest on their behalf. Examples include asset management firms, hedge funds, and insurance companies. Institutional investors typically invest large sums of money and can significant impact market movements.
+
+Retail investors are individuals who buy and sell assets for their personal accounts....
+- target_page: https://capital.com//en-int/learn/glossary/hedge-fund-definition
+
+Match 25:
+- matched_phrase: buy and sell
+- context: ...nies. Institutional investors typically invest large sums of money and can significant impact market movements.
+
+Retail investors are individuals who buy and sell assets for their personal accounts. They typically invest smaller amounts than institutional investors and often use online brokerage platforms to manage their portfolios.
+
+How do investors make money?...
+- target_page: https://capital.com//en-int/learn/glossary/buy-and-sell-definition
+
+Match 26:
+- matched_phrase: shareholder
+- context: ...difference between the selling price and the purchase price is the capital gain.
+
+Dividends: many companies distribute a portion of their profits to shareholders.  These dividend payments can provide a regular source of income.
+
+Interest: investors who buy bonds or other fixed-income investments earn interest payments over time, which can be more predictable than dividends or capital appreciation....
+- target_page: https://capital.com//en-int/learn/glossary/shareholder-definition
+
+Match 27:
+- matched_phrase: dividend
+- context: ...he selling price and the purchase price is the capital gain.
+
+Dividends: many companies distribute a portion of their profits to shareholders.  These dividend payments can provide a regular source of income.
+
+Interest: investors who buy bonds or other fixed-income investments earn interest payments over time, which can be more predictable than dividends or capital appreciation....
+- target_page: https://capital.com//en-int/learn/glossary/dividend-definition
+
+Match 28:
+- matched_phrase: income
+- context: ...ital gain.
+
+Dividends: many companies distribute a portion of their profits to shareholders.  These dividend payments can provide a regular source of income.
+
+Interest: investors who buy bonds or other fixed-income investments earn interest payments over time, which can be more predictable than dividends or capital appreciation....
+- target_page: https://capital.com//en-int/learn/glossary/income-definition
+
+Match 29:
+- matched_phrase: compounding
+- context: ...buy bonds or other fixed-income investments earn interest payments over time, which can be more predictable than dividends or capital appreciation.
+
+Compounding growth: reinvesting dividends and interest earned can accelerate wealth growth.
+
+Alternative income strategies: business investors may generate income through real estate, private companies or start-ups, although these investments often have lower liquidity but higher potential returns....
+- target_page: https://capital.com//en-int/learn/glossary/compounding-definition
+
+Match 30:
+- matched_phrase: risk
+- context: ...come an investor
+
+Becoming an investor is more accessible than ever, thanks to online platforms and educational resources. 
+
+Step 1 - understand your risk tolerance and financial goals: your comfort level with risk and the importance of the funds to your lifestyle will shape your investment strategy. 
+
+Step 2 - open a brokerage account: choose a reputable online broker and practice on a demo account.
+
+Ready to begin your investment journey?...
+- target_page: https://capital.com//en-int/learn/glossary/risk-definition
+
+Match 31:
+- matched_phrase: investment strategy
+- context: ...- understand your risk tolerance and financial goals: your comfort level with risk and the importance of the funds to your lifestyle will shape your investment strategy. 
+
+Step 2 - open a brokerage account: choose a reputable online broker and practice on a demo account.
+
+Ready to begin your investment journey? Create an account to explore the markets with Capital.com.
+
+Step 3 – Select assets and build your strategy: choose investments that align with  your risk tolerance and goals....
+- target_page: https://capital.com//en-int/learn/glossary/investment-strategy-definition
+
+Match 32:
+- matched_phrase: broker
+- context: ...and the importance of the funds to your lifestyle will shape your investment strategy. 
+
+Step 2 - open a brokerage account: choose a reputable online broker and practice on a demo account.
+
+Ready to begin your investment journey? Create an account to explore the markets with Capital.com.
+
+Step 3 – Select assets and build your strategy: choose investments that align with  your risk tolerance and goals....
+- target_page: https://capital.com//en-int/learn/glossary/broker-definition
+
+Match 33:
+- matched_phrase: investor sentiment
+- context: ...and how assets behave, investment strategies, and the factors that influence prices. Don’t forget to learn about risk management techniques.
+
+What is investor sentiment? 
+Investor sentiment reflects the collective mood – whether optimistic (bullish) or pessimistic (bearish)  – towards a particular market or asset. 
+
+Investor sentiment can influence market behaviour and lead to significant price swings....
+- target_page: https://capital.com//en-int/learn/glossary/investor-sentiment-definition
+
+Match 34:
+- matched_phrase: index
+- context: ...Institutional investors often use sentiment analysis as a tool for investment decisions. Retail traders can access tools like  CNN’s Fear and Greed index to gauge market sentiment. 
+
+
+The rise of Reddit’s r/WallStreetBets showed how collective retail investor sentiment can move markets, as seen in  GameStop and AMC stocks, which experienced dramatic price swings driven by collective sentiment rather than fundamentals....
+- target_page: https://capital.com//en-int/learn/glossary/index-definition
+
+Match 35:
+- matched_phrase: option
+- context: ...in individual stocks or bonds can offer greater growth potential, but it requires more research and carries more risk. Dividend investing is another option, where you invest in stocks that pay regular dividends, providing both income and potential price appreciation.
+
+No matter your strategy, starting with virtual money on a demo account can help you practice and understand how the market works without any risk....
+- target_page: https://capital.com//en-int/learn/glossary/option-definition
+
+Match 36:
+- matched_phrase: leverage
+- context: ...give you the opportunity to profit from both rising and falling markets without taking ownership of the underlying asset. 
+
+A key feature of CFDs is leverage (also known as margin trading), which can give traders exposure to the price movements of large positions with only a small outlay. Leverage increases potential profit, but also amplifies the chance of losses, making it risky....
+- target_page: https://capital.com//en-int/learn/glossary/leverage-definition
+
+Match 37:
+- matched_phrase: position
+- context: ...underlying asset. 
+
+A key feature of CFDs is leverage (also known as margin trading), which can give traders exposure to the price movements of large positions with only a small outlay. Leverage increases potential profit, but also amplifies the chance of losses, making it risky. Find more about CFD trading....
+- target_page: https://capital.com//en-int/learn/glossary/position-definition
+

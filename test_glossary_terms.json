@@ -1,0 +1,26 @@
+[
+  {
+    "term": "Bond Yield",
+    "url": "https://capital.com//en-int/learn/glossary/bond-yield-definition",
+    "aliases": [
+      "Bond Yield",
+      "Yield on Bonds",
+      "Bond Interest Rate",
+      "Coupon Rate",
+      "Yield to Maturity"
+    ],
+    "category": "Fixed Income"
+  },
+  {
+    "term": "Volatility",
+    "url": "https://capital.com//en-int/learn/glossary/volatility-definition",
+    "aliases": [
+      "Volatility",
+      "Price volatility",
+      "Market volatility",
+      "Investment volatility",
+      "Volatile markets"
+    ],
+    "category": "Investment Risk"
+  }
+]

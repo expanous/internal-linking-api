@@ -1,0 +1,4590 @@
+[
+  {
+    "term": "absolute return funds",
+    "url": "https://capital.com/en-int/learn/glossary/absolute-return-funds-definition",
+    "aliases": [
+      "absolute return funds",
+      "absolute return fund",
+      "absolute return",
+      "absolute returns",
+      "absolute return investing"
+    ],
+    "category": "investment funds"
+  },
+  {
+    "term": "algorithmic trading",
+    "url": "https://capital.com/en-int/learn/glossary/algorithmic-trading-definition",
+    "aliases": [
+      "algorithmic trading",
+      "algo trading",
+      "algorithmic trade",
+      "automated trading",
+      "bot trading",
+      "systematic trading"
+    ],
+    "category": "trading strategies"
+  },
+  {
+    "term": "Bond Yield",
+    "url": "https://capital.com//en-int/learn/glossary/bond-yield-definition",
+    "aliases": [
+      "Bond Yields",
+      "Yield on Bond",
+      "Yield",
+      "Coupon Yield",
+      "Current Yield",
+      "Yield to Maturity"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Volatility",
+    "url": "https://capital.com//en-int/learn/glossary/volatility-definition",
+    "aliases": [
+      "Volatility",
+      "Price volatility",
+      "Market volatility",
+      "Asset volatility",
+      "Volatile assets"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Trade",
+    "url": "https://capital.com//en-int/learn/glossary/trade-definition",
+    "aliases": [
+      "Trade",
+      "Trading",
+      "Commerce",
+      "Exchange",
+      "Market transaction"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "spread",
+    "url": "https://capital.com//en-int/learn/glossary/spread-definition",
+    "aliases": [
+      "spread",
+      "price spread",
+      "bid-ask spread",
+      "spread difference",
+      "market spread"
+    ],
+    "category": "Investment Terms"
+  },
+  {
+    "term": "Spot",
+    "url": "https://capital.com//en-int/learn/glossary/spot-definition",
+    "aliases": [
+      "Spot market",
+      "Spot price",
+      "Spot transaction",
+      "Spot contract",
+      "Spots"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Short Position",
+    "url": "https://capital.com//en-int/learn/glossary/short-position-definition",
+    "aliases": [
+      "Short Position",
+      "Short Selling",
+      "Short Sale",
+      "Short",
+      "Going Short",
+      "Short Trader"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "shareholder",
+    "url": "https://capital.com//en-int/learn/glossary/shareholder-definition",
+    "aliases": [
+      "shareholder",
+      "share owners",
+      "stockholder",
+      "equity holder",
+      "shareholders"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "securities",
+    "url": "https://capital.com//en-int/learn/glossary/securities-definition",
+    "aliases": [
+      "security",
+      "financial securities",
+      "investment securities",
+      "equity securities",
+      "debt securities",
+      "securities market"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "risk",
+    "url": "https://capital.com//en-int/learn/glossary/risk-definition",
+    "aliases": [
+      "risk",
+      "risks",
+      "financial risk",
+      "investment risk",
+      "credit risk",
+      "market risk",
+      "operational risk"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "Capitalisation",
+    "url": "https://capital.com//en-int/learn/glossary/capitalisation-definition",
+    "aliases": [
+      "Capitalization",
+      "Cap",
+      "Market Capitalisation",
+      "Market Capitalization",
+      "Total Capitalisation",
+      "Total Capitalization"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Position",
+    "url": "https://capital.com//en-int/learn/glossary/position-definition",
+    "aliases": [
+      "Position",
+      "Positions",
+      "Trading Position",
+      "Market Position"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Portfolio",
+    "url": "https://capital.com//en-int/learn/glossary/portfolio-definition",
+    "aliases": [
+      "Portfolio",
+      "Investment Portfolio",
+      "Asset Portfolio",
+      "Financial Portfolio",
+      "Portfolio Management"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Over-the-Counter (OTC)",
+    "url": "https://capital.com//en-int/learn/glossary/otc-over-the-counter-definition",
+    "aliases": [
+      "OTC",
+      "over the counter",
+      "over-the-counter market",
+      "OTC market"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Maturity",
+    "url": "https://capital.com//en-int/learn/glossary/maturity-definition",
+    "aliases": [
+      "Maturity",
+      "Maturity date",
+      "Loan maturity",
+      "Bond maturity",
+      "Expiration date"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Long Position",
+    "url": "https://capital.com//en-int/learn/glossary/long-position-definition",
+    "aliases": [
+      "Long Position",
+      "Going Long",
+      "Long Trade",
+      "Longing"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Liquidity",
+    "url": "https://capital.com//en-int/learn/glossary/liquidity-definition",
+    "aliases": [
+      "Liquidity",
+      "Liquid assets",
+      "Cash availability",
+      "Market liquidity",
+      "Asset liquidity"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Liability",
+    "url": "https://capital.com//en-int/learn/glossary/liability-definition",
+    "aliases": [
+      "Liabilities",
+      "Financial Liability",
+      "Debt",
+      "Obligation"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Leverage",
+    "url": "https://capital.com//en-int/learn/glossary/leverage-definition",
+    "aliases": [
+      "Leverage",
+      "Financial Leverage",
+      "Operating Leverage",
+      "Financial Gearing"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "ISIN",
+    "url": "https://capital.com//en-int/learn/glossary/isin-definition",
+    "aliases": [
+      "ISIN",
+      "International Securities Identification Number",
+      "ISIN code",
+      "ISINs"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Investor",
+    "url": "https://capital.com//en-int/learn/glossary/investor-definition",
+    "aliases": [
+      "Investor",
+      "Investors",
+      "Shareholder",
+      "Stakeholder",
+      "Equity Holder"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Interest Rates",
+    "url": "https://capital.com//en-int/learn/glossary/interest-rates-definition",
+    "aliases": [
+      "Interest Rate",
+      "Rates of Interest",
+      "Interest Payments",
+      "Interest Charges",
+      "Borrowing Costs"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Investment Strategy",
+    "url": "https://capital.com//en-int/learn/glossary/investment-strategy-definition",
+    "aliases": [
+      "Investment Strategies",
+      "Investment Plan",
+      "Investment Approaches",
+      "Investment Methodologies",
+      "Strategy for Investment"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "Return on Tangible Equity",
+    "url": "https://capital.com//en-int/learn/glossary/return-on-tangible-equity-definition",
+    "aliases": [
+      "Return on TE",
+      "ROTE",
+      "Return on Tangible Equity Ratio"
+    ],
+    "category": "Financial Performance Metrics"
+  },
+  {
+    "term": "Index Definition",
+    "url": "https://capital.com//en-int/learn/glossary/index-definition",
+    "aliases": [
+      "Index",
+      "Indexing",
+      "Indexation",
+      "Market Index",
+      "Stock Index"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Hedging",
+    "url": "https://capital.com//en-int/learn/glossary/hedging-definition",
+    "aliases": [
+      "Hedging",
+      "Hedge",
+      "Risk Mitigation",
+      "Protection Strategy"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "Fundamental Analysis",
+    "url": "https://capital.com//en-int/learn/glossary/fundamental-analysis-definition",
+    "aliases": [
+      "fundamental analysis",
+      "fundamentals",
+      "FA"
+    ],
+    "category": "Investment Analysis"
+  },
+  {
+    "term": "Foreign Exchange (Forex)",
+    "url": "https://capital.com//en-int/learn/glossary/foreign-exchange-forex-definition",
+    "aliases": [
+      "Forex",
+      "FX",
+      "foreign exchange market",
+      "currency trading",
+      "foreign currency exchange"
+    ],
+    "category": "Currency and Exchange Markets"
+  },
+  {
+    "term": "Equity",
+    "url": "https://capital.com//en-int/learn/glossary/equity-definition",
+    "aliases": [
+      "Equity",
+      "Shareholders' equity",
+      "Owner's equity",
+      "Net assets",
+      "Equity capital"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Dividend",
+    "url": "https://capital.com//en-int/learn/glossary/dividend-definition",
+    "aliases": [
+      "Dividend",
+      "Dividends",
+      "Profit distribution",
+      "Shareholder payment"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Commodity",
+    "url": "https://capital.com//en-int/learn/glossary/commodity-definition",
+    "aliases": [
+      "Commodities",
+      "Raw materials",
+      "Goods",
+      "Basic goods"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "capital",
+    "url": "https://capital.com//en-int/learn/glossary/capital-definition",
+    "aliases": [
+      "capital",
+      "financial capital",
+      "investment capital",
+      "working capital"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Candlestick Chart",
+    "url": "https://capital.com//en-int/learn/glossary/candlestick-chart-definition",
+    "aliases": [
+      "Candlestick",
+      "Candlestick Charts",
+      "Candle Chart",
+      "Candle Stick Chart",
+      "Candle",
+      "Candle Charts"
+    ],
+    "category": "Technical Analysis"
+  },
+  {
+    "term": "Bull Market",
+    "url": "https://capital.com//en-int/learn/glossary/bull-market-definition",
+    "aliases": [
+      "Bull Market",
+      "Bullish Market",
+      "Bulls",
+      "Bullish Phase",
+      "Rising Market"
+    ],
+    "category": "Market Trends"
+  },
+  {
+    "term": "Bond",
+    "url": "https://capital.com//en-int/learn/glossary/bond-definition",
+    "aliases": [
+      "Bonds",
+      "Debt security",
+      "Fixed-income security",
+      "Bond investment"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Attitude to Risk",
+    "url": "https://capital.com//en-int/learn/glossary/attitude-to-risk-definition",
+    "aliases": [
+      "Attitude to Risk",
+      "Risk Appetite",
+      "Risk Tolerance",
+      "Risk Attitude",
+      "Risk Profile"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "bear market",
+    "url": "https://capital.com//en-int/learn/glossary/bear-market-definition",
+    "aliases": [
+      "bear markets",
+      "market downturn",
+      "declining market"
+    ],
+    "category": "Market Trends"
+  },
+  {
+    "term": "after-hours trading",
+    "url": "https://capital.com//en-int/learn/glossary/after-hours-trading-definition",
+    "aliases": [
+      "after-hours trading",
+      "after hours market",
+      "after hours session",
+      "extended hours trading",
+      "after-hours market"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Active Order",
+    "url": "https://capital.com//en-int/learn/glossary/active-order-definition",
+    "aliases": [
+      "Active Orders",
+      "Open Orders",
+      "Live Orders"
+    ],
+    "category": "Trading Terms"
+  },
+  {
+    "term": "Bar Chart",
+    "url": "https://capital.com//en-int/learn/glossary/bar-chart-definition",
+    "aliases": [
+      "Bar Chart",
+      "Bar Graph",
+      "Histogram"
+    ],
+    "category": "Data Visualization"
+  },
+  {
+    "term": "Basis Point",
+    "url": "https://capital.com//en-int/learn/glossary/basis-point-definition",
+    "aliases": [
+      "Basis Points",
+      "BPS",
+      "Basis Point Value",
+      "bps"
+    ],
+    "category": "Financial Metrics"
+  },
+  {
+    "term": "Bias",
+    "url": "https://capital.com//en-int/learn/glossary/bias-definition",
+    "aliases": [
+      "Bias",
+      "Cognitive Bias",
+      "Behavioral Bias",
+      "Systematic Bias"
+    ],
+    "category": "Behavioral Finance"
+  },
+  {
+    "term": "Broker",
+    "url": "https://capital.com//en-int/learn/glossary/broker-definition",
+    "aliases": [
+      "Broker",
+      "Brokers",
+      "Stock broker",
+      "Investment broker",
+      "Financial broker"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Chart",
+    "url": "https://capital.com//en-int/learn/glossary/chart-definition",
+    "aliases": [
+      "Charts",
+      "Graph",
+      "Graphs",
+      "Data chart",
+      "Statistical chart",
+      "Visualization",
+      "Diagram"
+    ],
+    "category": "Technical Analysis"
+  },
+  {
+    "term": "Collateral",
+    "url": "https://capital.com//en-int/learn/glossary/collateral-definition",
+    "aliases": [
+      "Collateral",
+      "Security",
+      "Guarantee",
+      "Pledge",
+      "Assets"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Currency Pair",
+    "url": "https://capital.com//en-int/learn/glossary/currency-pair-definition",
+    "aliases": [
+      "currency pairs",
+      "pair of currencies",
+      "forex pair",
+      "FX pair"
+    ],
+    "category": "Forex Trading"
+  },
+  {
+    "term": "DAX Index",
+    "url": "https://capital.com//en-int/learn/glossary/dax-index-definition",
+    "aliases": [
+      "DAX",
+      "DAX 30",
+      "Deutscher Aktienindex",
+      "German Stock Index"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Day Order",
+    "url": "https://capital.com//en-int/learn/glossary/day-order-definition",
+    "aliases": [
+      "Day Order",
+      "Day Order Type",
+      "Daily Order"
+    ],
+    "category": "Trading Terms"
+  },
+  {
+    "term": "Diversification",
+    "url": "https://capital.com//en-int/learn/glossary/diversification-definition",
+    "aliases": [
+      "Diversification",
+      "Investment diversification",
+      "Portfolio diversification",
+      "Risk diversification"
+    ],
+    "category": "Investment Strategies"
+  },
+  {
+    "term": "Dow 30",
+    "url": "https://capital.com//en-int/learn/glossary/dow-30-definition",
+    "aliases": [
+      "Dow Jones Industrial Average",
+      "Dow",
+      "DJIA",
+      "Dow 30 Index",
+      "Dow 30 Stocks"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Euro Stoxx 50 Index",
+    "url": "https://capital.com//en-int/learn/glossary/euro-stoxx-50-index-definition",
+    "aliases": [
+      "Euro Stoxx 50",
+      "Euro Stoxx 50 Index",
+      "EURO STOXX 50",
+      "STOXX 50",
+      "Eurozone Stock Index"
+    ],
+    "category": "Stock Market Indices"
+  },
+  {
+    "term": "Financial Market",
+    "url": "https://capital.com//en-int/learn/glossary/financial-market-definition",
+    "aliases": [
+      "Financial Market",
+      "Capital Market",
+      "Money Market",
+      "Equity Market",
+      "Debt Market",
+      "Forex Market"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "GTD Order",
+    "url": "https://capital.com//en-int/learn/glossary/gtd-order-definition",
+    "aliases": [
+      "Good 'Til Defined",
+      "Good 'Til Date Order",
+      "GTD",
+      "GTD Orders"
+    ],
+    "category": "Trading Orders"
+  },
+  {
+    "term": "Illiquidity",
+    "url": "https://capital.com//en-int/learn/glossary/illiquidity-definition",
+    "aliases": [
+      "illiquidity",
+      "illiquid asset",
+      "liquidity risk",
+      "illiquid market"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "London Stock Exchange Group",
+    "url": "https://capital.com//en-int/learn/glossary/london-stock-exchange-group-definition",
+    "aliases": [
+      "LSEG",
+      "London Stock Exchange",
+      "London Stock Exchange Group plc",
+      "LSE Group"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Market Data",
+    "url": "https://capital.com//en-int/learn/glossary/market-data-definition",
+    "aliases": [
+      "Market Information",
+      "Market Statistics",
+      "Market Insights",
+      "Market Data"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Market Depth",
+    "url": "https://capital.com//en-int/learn/glossary/market-depth-definition",
+    "aliases": [
+      "Market Depth",
+      "Depth of Market",
+      "DOM",
+      "Order Book Depth"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Market Maker",
+    "url": "https://capital.com//en-int/learn/glossary/market-maker-definition",
+    "aliases": [
+      "Market Makers",
+      "Liquidity Provider",
+      "MM",
+      "Quote Provider"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Market Risk",
+    "url": "https://capital.com//en-int/learn/glossary/market-risk-definition",
+    "aliases": [
+      "Market Risk",
+      "Market Risks",
+      "Systematic Risk",
+      "Investment Risk"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "Mountain Chart",
+    "url": "https://capital.com//en-int/learn/glossary/mountain-chart-definition",
+    "aliases": [
+      "Mountain Chart",
+      "Mountain Charts",
+      "Mountain Graph",
+      "Mountain Graphs"
+    ],
+    "category": "Financial Charts"
+  },
+  {
+    "term": "Checkable Deposits",
+    "url": "https://capital.com//en-int/learn/glossary/checkable-deposits-definition",
+    "aliases": [
+      "Checkable Deposit",
+      "Demand Deposit",
+      "Checking Account",
+      "Current Account"
+    ],
+    "category": "Banking"
+  },
+  {
+    "term": "Order",
+    "url": "https://capital.com//en-int/learn/glossary/order-definition",
+    "aliases": [
+      "Orders",
+      "Buy order",
+      "Sell order",
+      "Market order",
+      "Limit order"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Overnight",
+    "url": "https://capital.com//en-int/learn/glossary/overnight-definition",
+    "aliases": [
+      "Overnight loan",
+      "Overnight rate",
+      "Overnight interest",
+      "Overnight financing",
+      "Overnight market"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Risk Diversification",
+    "url": "https://capital.com//en-int/learn/glossary/risk-diversification-definition",
+    "aliases": [
+      "diversification",
+      "risk diversity",
+      "portfolio diversification",
+      "investment diversification"
+    ],
+    "category": "Investment Strategy"
+  },
+  {
+    "term": "Short Selling",
+    "url": "https://capital.com//en-int/learn/glossary/short-selling-definition",
+    "aliases": [
+      "Short Sell",
+      "Short Sale",
+      "Shorting"
+    ],
+    "category": "Investment Strategies"
+  },
+  {
+    "term": "slippage",
+    "url": "https://capital.com//en-int/learn/glossary/slippage-definition",
+    "aliases": [
+      "slippages",
+      "price slippage",
+      "execution slippage"
+    ],
+    "category": "trading"
+  },
+  {
+    "term": "Stock Code",
+    "url": "https://capital.com//en-int/learn/glossary/stock-code-definition",
+    "aliases": [
+      "Stock Symbol",
+      "Ticker Symbol",
+      "Ticker Code",
+      "Stock Codes",
+      "Ticker Codes"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "Stock Market",
+    "url": "https://capital.com//en-int/learn/glossary/stock-market-definition",
+    "aliases": [
+      "Stock Exchange",
+      "Equity Market",
+      "Share Market",
+      "Securities Market",
+      "Stock Markets"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "Stop Order",
+    "url": "https://capital.com//en-int/learn/glossary/stop-order-definition",
+    "aliases": [
+      "Stop Order",
+      "Stop-Loss Order",
+      "Stop-Limit Order",
+      "Sell Stop Order",
+      "Buy Stop Order"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Business Cycle",
+    "url": "https://capital.com//en-int/learn/glossary/business-cycle-definition",
+    "aliases": [
+      "Business Cycles",
+      "Economic Cycle",
+      "Trade Cycle"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "Cash",
+    "url": "https://capital.com//en-int/learn/glossary/cash-definition",
+    "aliases": [
+      "Cash",
+      "Currency",
+      "Liquid assets",
+      "Physical currency"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Cash Flow",
+    "url": "https://capital.com//en-int/learn/glossary/cash-flow-definition",
+    "aliases": [
+      "Cash Flows",
+      "Cashflow",
+      "Net Cash Flow",
+      "Operating Cash Flow"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Credit Risk",
+    "url": "https://capital.com//en-int/learn/glossary/credit-risk-definition",
+    "aliases": [
+      "Credit Risk",
+      "Default Risk",
+      "Counterparty Risk",
+      "Lending Risk"
+    ],
+    "category": "Financial Risk"
+  },
+  {
+    "term": "Dealer",
+    "url": "https://capital.com//en-int/learn/glossary/dealer-definition",
+    "aliases": [
+      "dealer",
+      "dealers",
+      "trader",
+      "market maker",
+      "financial dealer"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "deposit margin",
+    "url": "https://capital.com//en-int/learn/glossary/deposit-margin-definition",
+    "aliases": [
+      "deposit margins",
+      "margin deposit",
+      "margin deposits"
+    ],
+    "category": "Margin Trading"
+  },
+  {
+    "term": "ETF",
+    "url": "https://capital.com//en-int/learn/glossary/etf-definition",
+    "aliases": [
+      "Exchange-Traded Fund",
+      "ETFs",
+      "Exchange Traded Funds",
+      "exchange-traded funds (ETFs)"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Financial Risk",
+    "url": "https://capital.com//en-int/learn/glossary/financial-risk-definition",
+    "aliases": [
+      "Financial Risk",
+      "Financial Risks",
+      "Risk in Finance",
+      "Investment Risk",
+      "Market Risk"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Financial Statement",
+    "url": "https://capital.com//en-int/learn/glossary/financial-statement-definition",
+    "aliases": [
+      "Financial Statements",
+      "Income Statement",
+      "Balance Sheet",
+      "Cash Flow Statement",
+      "Financial Report"
+    ],
+    "category": "Financial Reporting"
+  },
+  {
+    "term": "Option",
+    "url": "https://capital.com//en-int/learn/glossary/option-definition",
+    "aliases": [
+      "Options",
+      "Financial Option",
+      "Call Option",
+      "Put Option",
+      "Equity Option"
+    ],
+    "category": "Derivatives"
+  },
+  {
+    "term": "Over/Under Trading",
+    "url": "https://capital.com//en-int/learn/glossary/over-under-trading-definition",
+    "aliases": [
+      "Over Trading",
+      "Under Trading",
+      "Over/Under Trade",
+      "Over/Under Market Activity"
+    ],
+    "category": "Trading Strategies"
+  },
+  {
+    "term": "Passive Order",
+    "url": "https://capital.com//en-int/learn/glossary/passive-order-definition",
+    "aliases": [
+      "Passive Order",
+      "Passive Orders",
+      "Limit Order",
+      "Buy Limit Order",
+      "Sell Limit Order"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Pip",
+    "url": "https://capital.com//en-int/learn/glossary/pip-definition",
+    "aliases": [
+      "Pip",
+      "Percentage in Point",
+      "Price Interest Point"
+    ],
+    "category": "Forex Trading"
+  },
+  {
+    "term": "Revenue",
+    "url": "https://capital.com//en-int/learn/glossary/revenue-definition",
+    "aliases": [
+      "Revenue",
+      "Sales",
+      "Turnover",
+      "Income",
+      "Earnings"
+    ],
+    "category": "Financial Statements"
+  },
+  {
+    "term": "Buy and Sell",
+    "url": "https://capital.com//en-int/learn/glossary/buy-and-sell-definition",
+    "aliases": [
+      "Buy and Sell",
+      "Buying and Selling",
+      "Buy/Sell",
+      "Buy and Sell Transactions",
+      "Purchase and Sale"
+    ],
+    "category": "Trading and Investment"
+  },
+  {
+    "term": "Sentiment Trading",
+    "url": "https://capital.com//en-int/learn/glossary/sentiment-trading-definition",
+    "aliases": [
+      "Sentiment Trading",
+      "Market Sentiment Trading",
+      "Traders' Sentiment",
+      "Sentiment-Driven Trading"
+    ],
+    "category": "Trading Strategies"
+  },
+  {
+    "term": "Stop Out",
+    "url": "https://capital.com//en-int/learn/glossary/stop-out-definition",
+    "aliases": [
+      "Stop Out",
+      "Stop Out Level",
+      "Stop Out Price"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Take Profit Order",
+    "url": "https://capital.com//en-int/learn/glossary/take-profit-order-definition",
+    "aliases": [
+      "Take Profit",
+      "TP Order",
+      "Take Profit Level",
+      "Take Profit Limit Order"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Ticker",
+    "url": "https://capital.com//en-int/learn/glossary/ticker-definition",
+    "aliases": [
+      "Ticker symbol",
+      "Stock ticker",
+      "Ticker code",
+      "Ticker sign",
+      "Tickers"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "trading capital",
+    "url": "https://capital.com//en-int/learn/glossary/trading-capital-definition",
+    "aliases": [
+      "trading capital",
+      "capital for trading",
+      "trading funds",
+      "investment capital"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Trailing Stops",
+    "url": "https://capital.com//en-int/learn/glossary/trailing-stops-definition",
+    "aliases": [
+      "Trailing Stop",
+      "Trailing Stops",
+      "Stop-Loss Order",
+      "Trailing Stop-Loss"
+    ],
+    "category": "Trading Strategies"
+  },
+  {
+    "term": "Capital Market",
+    "url": "https://capital.com//en-int/learn/glossary/capital-market-definition",
+    "aliases": [
+      "Capital Markets",
+      "Financial Market",
+      "Investment Market"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Direct Investment",
+    "url": "https://capital.com//en-int/learn/glossary/direct-investment-definition",
+    "aliases": [
+      "Direct Investments",
+      "Foreign Direct Investment",
+      "FDI",
+      "Direct Investing"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Equity Risk",
+    "url": "https://capital.com//en-int/learn/glossary/equity-risk-definition",
+    "aliases": [
+      "Equity Risk",
+      "Stock Market Risk",
+      "Investment Risk"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Investor Sentiment",
+    "url": "https://capital.com//en-int/learn/glossary/investor-sentiment-definition",
+    "aliases": [
+      "Investor Sentiment",
+      "Investor Confidence",
+      "Investor Mood"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Net Profit",
+    "url": "https://capital.com//en-int/learn/glossary/net-profit-definition",
+    "aliases": [
+      "Net Profit",
+      "Net Income",
+      "Net Earnings",
+      "Profit After Tax"
+    ],
+    "category": "Financial Metrics"
+  },
+  {
+    "term": "Portfolio Investment",
+    "url": "https://capital.com//en-int/learn/glossary/portfolio-investment-definition",
+    "aliases": [
+      "Portfolio Investments",
+      "Investment Portfolio",
+      "Portfolio",
+      "Investment Holdings"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "retracement",
+    "url": "https://capital.com//en-int/learn/glossary/retracement-definition",
+    "aliases": [
+      "retracement",
+      "price retracement",
+      "market retracement",
+      "pullback"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Reversal",
+    "url": "https://capital.com//en-int/learn/glossary/reversal-definition",
+    "aliases": [
+      "Reversal",
+      "Price reversal",
+      "Market reversal",
+      "Trend reversal"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Trader",
+    "url": "https://capital.com//en-int/learn/glossary/trader-definition",
+    "aliases": [
+      "Trader",
+      "Traders",
+      "Market Participant",
+      "Investor",
+      "Speculator"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Average Daily Trading Volume",
+    "url": "https://capital.com//en-int/learn/glossary/average-daily-trading-volume-definition",
+    "aliases": [
+      "Average Daily Trading Volume",
+      "ADTV",
+      "Daily Trading Volume",
+      "Average Trading Volume"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Average Price",
+    "url": "https://capital.com//en-int/learn/glossary/average-price-definition",
+    "aliases": [
+      "Average Cost",
+      "Mean Price",
+      "Average Selling Price",
+      "ASP",
+      "Average Price"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Investment Fund",
+    "url": "https://capital.com//en-int/learn/glossary/investment-fund-definition",
+    "aliases": [
+      "Investment Funds",
+      "Fund",
+      "Funds"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "risk tolerance",
+    "url": "https://capital.com//en-int/learn/glossary/risk-tolerance-definition",
+    "aliases": [
+      "risk tolerance",
+      "tolerance for risk",
+      "risk appetite",
+      "risk preference"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Stock Dividend",
+    "url": "https://capital.com//en-int/learn/glossary/stock-dividend-definition",
+    "aliases": [
+      "Stock Dividend",
+      "Dividend Stock",
+      "Dividend Shares",
+      "Share Dividend"
+    ],
+    "category": "Dividends"
+  },
+  {
+    "term": "Asset",
+    "url": "https://capital.com//en-int/learn/glossary/asset-definition",
+    "aliases": [
+      "Assets",
+      "Financial Asset",
+      "Tangible Asset",
+      "Intangible Asset",
+      "Current Asset",
+      "Fixed Asset"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Automated Trading",
+    "url": "https://capital.com//en-int/learn/glossary/automated-trading-definition",
+    "aliases": [
+      "Automated Trading",
+      "Algo Trading",
+      "Algorithmic Trading",
+      "Automated Trading Systems",
+      "High-Frequency Trading"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Balance Sheet",
+    "url": "https://capital.com//en-int/learn/glossary/balance-sheet-definition",
+    "aliases": [
+      "balance sheets",
+      "financial statement",
+      "statement of financial position",
+      "position statement"
+    ],
+    "category": "Financial Statements"
+  },
+  {
+    "term": "Index Funds",
+    "url": "https://capital.com//en-int/learn/glossary/index-funds-definition",
+    "aliases": [
+      "Index Fund",
+      "Index Mutual Funds",
+      "Indexed Funds",
+      "Index Investing",
+      "Passive Funds"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Issue",
+    "url": "https://capital.com//en-int/learn/glossary/issue-definition",
+    "aliases": [
+      "Issue",
+      "Stock Issue",
+      "Bond Issue",
+      "Securities Issue",
+      "Initial Issue"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Zero-Day Options Volatility",
+    "url": "https://capital.com//en-int/learn/glossary/zero-day-options-volatility-what-are-definition",
+    "aliases": [
+      "Zero-Day Options",
+      "Zero-Day Volatility",
+      "ZDV",
+      "Options with Zero Days to Expiration"
+    ],
+    "category": "Options Trading"
+  },
+  {
+    "term": "Variance Inflation Factor (VIF)",
+    "url": "https://capital.com//en-int/learn/glossary/variance-inflation-factor-vif-definition",
+    "aliases": [
+      "VIF",
+      "Variance Inflation Factor",
+      "Inflation Factor"
+    ],
+    "category": "Statistics"
+  },
+  {
+    "term": "Theoretical Ex-Rights Price",
+    "url": "https://capital.com//en-int/learn/glossary/theoretical-ex-rights-price-definition",
+    "aliases": [
+      "Theoretical Ex-Rights Price",
+      "Ex-Rights Price",
+      "TERP"
+    ],
+    "category": "Equity and Stock Market"
+  },
+  {
+    "term": "Credit Rating",
+    "url": "https://capital.com//en-int/learn/glossary/ccc-credit-rating-definition",
+    "aliases": [
+      "Credit Rating",
+      "Credit Ratings",
+      "Credit Score",
+      "Creditworthiness Rating",
+      "Bond Rating",
+      "Ratings"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Non-Operating Income",
+    "url": "https://capital.com//en-int/learn/glossary/non-operating-income-definition",
+    "aliases": [
+      "Non-Operating Income",
+      "Non-Operating Earnings",
+      "Other Income",
+      "Idle Income"
+    ],
+    "category": "Accounting"
+  },
+  {
+    "term": "Convenience Yield",
+    "url": "https://capital.com//en-int/learn/glossary/convenience-yield-definition",
+    "aliases": [
+      "Convenience Yield",
+      "Convenience Yield Rate",
+      "Convenience Yield Factor"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Share",
+    "url": "https://capital.com//en-int/learn/glossary/share-definition",
+    "aliases": [
+      "Shares",
+      "Stock",
+      "Equity",
+      "Equities",
+      "Stake"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Untradeable Assets",
+    "url": "https://capital.com//en-int/learn/glossary/untradeable-assets-definition",
+    "aliases": [
+      "Untradeable Asset",
+      "Non-tradeable Assets",
+      "Non-tradeable Asset",
+      "Illiquid Assets"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "Market Trend",
+    "url": "https://capital.com//en-int/learn/glossary/market-trend-definition",
+    "aliases": [
+      "market trends",
+      "trend in the market",
+      "market movement",
+      "market trajectory"
+    ],
+    "category": "Market Analysis"
+  },
+  {
+    "term": "Venture Capital",
+    "url": "https://capital.com//en-int/learn/glossary/venture-capital-definition",
+    "aliases": [
+      "Venture Capital",
+      "VC",
+      "Venture Financing",
+      "Entrepreneurial Capital"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Economics",
+    "url": "https://capital.com//en-int/learn/glossary/economics-definition",
+    "aliases": [
+      "Economics",
+      "Economic Science",
+      "Economic Studies",
+      "Economical Theory",
+      "Economics Theory"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "compounding",
+    "url": "https://capital.com//en-int/learn/glossary/compounding-definition",
+    "aliases": [
+      "compounding",
+      "compound interest",
+      "compounded growth"
+    ],
+    "category": "Investment and Finance"
+  },
+  {
+    "term": "Sovereign",
+    "url": "https://capital.com//en-int/learn/glossary/sovereign-definition",
+    "aliases": [
+      "Sovereign debt",
+      "Sovereign bonds",
+      "National debt"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "solvent",
+    "url": "https://capital.com//en-int/learn/glossary/solvent-definition",
+    "aliases": [
+      "solvent",
+      "solvents",
+      "financially solvent",
+      "liquid",
+      "cash-positive",
+      "sufficient resources"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Income",
+    "url": "https://capital.com//en-int/learn/glossary/income-definition",
+    "aliases": [
+      "Income",
+      "Earnings",
+      "Profit",
+      "Wages",
+      "Salary"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Output",
+    "url": "https://capital.com//en-int/learn/glossary/output-definition",
+    "aliases": [
+      "Output",
+      "Outputs",
+      "Production output",
+      "Total output"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "FTSE 100",
+    "url": "https://capital.com//en-int/learn/glossary/ftse-100-definition",
+    "aliases": [
+      "FTSE 100 Index",
+      "Financial Times Stock Exchange 100",
+      "Footsie"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "GDP per capita",
+    "url": "https://capital.com//en-int/learn/glossary/gdp-per-capita-definition",
+    "aliases": [
+      "GDP per person",
+      "Gross Domestic Product per capita",
+      "GDP per head",
+      "Per capita GDP"
+    ],
+    "category": "Macroeconomics"
+  },
+  {
+    "term": "Mexican Unidad de Inversión",
+    "url": "https://capital.com//en-int/learn/glossary/mexican-unidad-de-inversi-n-definition",
+    "aliases": [
+      "Unidad de Inversión",
+      "UDI",
+      "Mexican Investment Unit",
+      "Investment Unit"
+    ],
+    "category": "Currency and Inflation"
+  },
+  {
+    "term": "G20",
+    "url": "https://capital.com//en-int/learn/glossary/g20-definition",
+    "aliases": [
+      "Group of Twenty",
+      "G-20",
+      "G20 nations",
+      "G20 members"
+    ],
+    "category": "International Economics"
+  },
+  {
+    "term": "Insolvency",
+    "url": "https://capital.com//en-int/learn/glossary/insolvency-definition",
+    "aliases": [
+      "Insolvency",
+      "Insolvencies",
+      "Bankruptcy",
+      "Financial Distress",
+      "Insolvable Debt"
+    ],
+    "category": "Financial Terms"
+  },
+  {
+    "term": "Credit Rating",
+    "url": "https://capital.com//en-int/learn/glossary/credit-rating-definition",
+    "aliases": [
+      "Credit Ratings",
+      "Credit Score",
+      "Credit Worthiness",
+      "Default Risk Rating"
+    ],
+    "category": "Financial Assessment"
+  },
+  {
+    "term": "Financial Services",
+    "url": "https://capital.com//en-int/learn/glossary/financial-services-definition",
+    "aliases": [
+      "Financial Service",
+      "Finance Services",
+      "Finance Service",
+      "Financing Services"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Dow Jones",
+    "url": "https://capital.com//en-int/learn/glossary/dow-jones-definition",
+    "aliases": [
+      "Dow Jones Industrial Average",
+      "DJIA",
+      "Dow",
+      "Dow Jones Index"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Cash Inflow",
+    "url": "https://capital.com//en-int/learn/glossary/cash-inflow-definition",
+    "aliases": [
+      "Cash Inflow",
+      "Cash Inflows",
+      "Money Inflow",
+      "Income Inflow"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "S&P 500",
+    "url": "https://capital.com//en-int/learn/glossary/s-p-500-definition",
+    "aliases": [
+      "S and P 500",
+      "Standard & Poor's 500",
+      "S&P 500 Index",
+      "S&P 500 Stock Index",
+      "S&P 500 Companies"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Unit Price",
+    "url": "https://capital.com//en-int/learn/glossary/unit-price-definition",
+    "aliases": [
+      "Unit Price",
+      "Price per Unit",
+      "Cost per Unit",
+      "Unit Cost"
+    ],
+    "category": "Pricing"
+  },
+  {
+    "term": "Internal Financing",
+    "url": "https://capital.com//en-int/learn/glossary/internal-financing-definition",
+    "aliases": [
+      "Internal Financing",
+      "Self-Financing",
+      "Internal Funding",
+      "In-House Financing",
+      "Retained Earnings Financing"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Stub",
+    "url": "https://capital.com//en-int/learn/glossary/stub-definition",
+    "aliases": [
+      "Stubs",
+      "Stub contract",
+      "Stub period"
+    ],
+    "category": "Financial Instruments"
+  },
+  {
+    "term": "Derivatives Market",
+    "url": "https://capital.com//en-int/learn/glossary/derivatives-market-definition",
+    "aliases": [
+      "Derivatives",
+      "Derivatives Trading",
+      "Derivatives Market",
+      "Derivative Market",
+      "Derivative Trading"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Online Auction",
+    "url": "https://capital.com//en-int/learn/glossary/online-auction-definition",
+    "aliases": [
+      "Online Auction",
+      "Internet Auction",
+      "E-auction",
+      "Virtual Auction",
+      "Digital Auction"
+    ],
+    "category": "E-commerce"
+  },
+  {
+    "term": "Swap Rate",
+    "url": "https://capital.com//en-int/learn/glossary/swap-rate-definition",
+    "aliases": [
+      "Swap Rate",
+      "SWAP rate",
+      "Interest Rate Swap Rate",
+      "Fixed Rate",
+      "Variable Rate"
+    ],
+    "category": "Financial Derivatives"
+  },
+  {
+    "term": "Intangible Asset",
+    "url": "https://capital.com//en-int/learn/glossary/intangible-asset-definition",
+    "aliases": [
+      "Intangible Assets",
+      "Non-physical Assets",
+      "Unseen Assets",
+      "Intangible Property"
+    ],
+    "category": "Accounting"
+  },
+  {
+    "term": "Rule of Thumb",
+    "url": "https://capital.com//en-int/learn/glossary/rule-of-thumb-definition",
+    "aliases": [
+      "Rule of Thumb",
+      "General Guideline",
+      "Approximate Rule",
+      "Heuristic"
+    ],
+    "category": "Personal Finance"
+  },
+  {
+    "term": "E-Wallet",
+    "url": "https://capital.com//en-int/learn/glossary/e-wallet-definition",
+    "aliases": [
+      "E-Wallet",
+      "Electronic Wallet",
+      "Digital Wallet",
+      "E-Purse",
+      "Virtual Wallet"
+    ],
+    "category": "Digital Finance"
+  },
+  {
+    "term": "Leverage Ratio",
+    "url": "https://capital.com//en-int/learn/glossary/leverage-ratio-definition",
+    "aliases": [
+      "Leverage Ratio",
+      "Debt Ratio",
+      "Financial Leverage",
+      "Equity Multiplier"
+    ],
+    "category": "Financial Ratios"
+  },
+  {
+    "term": "Debtor Collection Period",
+    "url": "https://capital.com//en-int/learn/glossary/debtor-collection-period-definition",
+    "aliases": [
+      "Collection Period",
+      "Debtor Collection Time",
+      "Accounts Receivable Collection Period",
+      "Debtor Days"
+    ],
+    "category": "Accounting"
+  },
+  {
+    "term": "Domestic Market",
+    "url": "https://capital.com//en-int/learn/glossary/domestic-market-definition",
+    "aliases": [
+      "Domestic Markets",
+      "Local Market",
+      "National Market"
+    ],
+    "category": "Market Analysis"
+  },
+  {
+    "term": "External Financing",
+    "url": "https://capital.com//en-int/learn/glossary/external-financing-definition",
+    "aliases": [
+      "External Financing",
+      "External Funding",
+      "Outside Financing",
+      "Outside Funding"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Basis Risk",
+    "url": "https://capital.com//en-int/learn/glossary/basis-risk-definition",
+    "aliases": [
+      "Basis Risk",
+      "Basis Risks",
+      "Hedging Risk",
+      "Spread Risk"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "Bond Maturity",
+    "url": "https://capital.com//en-int/learn/glossary/bond-maturity-definition",
+    "aliases": [
+      "Maturity of a Bond",
+      "Bond Maturities",
+      "Maturities",
+      "Maturity"
+    ],
+    "category": "Fixed Income"
+  },
+  {
+    "term": "Capital Adequacy Ratio",
+    "url": "https://capital.com//en-int/learn/glossary/capital-adequacy-ratio-definition",
+    "aliases": [
+      "Capital Adequacy Ratio",
+      "Capital Ratio",
+      "Adequacy Ratio"
+    ],
+    "category": "Banking and Finance"
+  },
+  {
+    "term": "Equity Stake",
+    "url": "https://capital.com//en-int/learn/glossary/equity-stake-definition",
+    "aliases": [
+      "Equity Share",
+      "Ownership Stake",
+      "Equity Interest",
+      "Equity Holding",
+      "Stake"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "G10",
+    "url": "https://capital.com//en-int/learn/glossary/g10-definition",
+    "aliases": [
+      "Group of Ten",
+      "G10 countries",
+      "G10 nations"
+    ],
+    "category": "International Finance"
+  },
+  {
+    "term": "Hang Seng Index",
+    "url": "https://capital.com//en-int/learn/glossary/hang-seng-index-definition",
+    "aliases": [
+      "Hang Seng",
+      "HSI",
+      "Hang Seng Stock Index"
+    ],
+    "category": "Stock Market Indices"
+  },
+  {
+    "term": "preferred dividends",
+    "url": "https://capital.com//en-int/learn/glossary/preferred-dividends-definition",
+    "aliases": [
+      "preferred dividend",
+      "dividend preferences",
+      "preference dividends",
+      "pref dividends"
+    ],
+    "category": "Dividends"
+  },
+  {
+    "term": "AA Credit Rating",
+    "url": "https://capital.com//en-int/learn/glossary/aa-credit-rating-definition",
+    "aliases": [
+      "AA Rating",
+      "Double A Credit Rating",
+      "AA Credit Score",
+      "AA Ratings",
+      "AA Credit Scores"
+    ],
+    "category": "Credit Ratings"
+  },
+  {
+    "term": "Credit Rating",
+    "url": "https://capital.com//en-int/learn/glossary/b-credit-rating-definition",
+    "aliases": [
+      "Credit Ratings",
+      "Credit Score",
+      "Rating",
+      "Creditworthiness Assessment",
+      "B Credit Rating"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "BBB credit rating",
+    "url": "https://capital.com//en-int/learn/glossary/bbb-credit-rating-definition",
+    "aliases": [
+      "BBB rating",
+      "BBB credit score",
+      "BBB credit grade",
+      "BBB",
+      "Triple B rating"
+    ],
+    "category": "Credit Ratings"
+  },
+  {
+    "term": "Tax Transparent Fund",
+    "url": "https://capital.com//en-int/learn/glossary/tax-transparent-fund-definition",
+    "aliases": [
+      "Tax Transparent Funds",
+      "TTF",
+      "tax-efficient fund",
+      "transparency tax fund"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Internal Models Approach for Market Risk",
+    "url": "https://capital.com//en-int/learn/glossary/internal-models-approach-for-market-risk-definition",
+    "aliases": [
+      "Internal Models Approach",
+      "Internal Models for Market Risk",
+      "Market Risk Internal Models",
+      "IMAMR"
+    ],
+    "category": "Market Risk"
+  },
+  {
+    "term": "Bond ETF",
+    "url": "https://capital.com//en-int/learn/glossary/bond-etf-definition",
+    "aliases": [
+      "Bond Exchange-Traded Fund",
+      "Bond Exchange Traded Fund",
+      "Bond ETFs",
+      "bonds ETF"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "EBID",
+    "url": "https://capital.com//en-int/learn/glossary/ebid-definition",
+    "aliases": [
+      "EBID",
+      "Earnings Before Interest and Depreciation",
+      "Earnings Before Interest Depreciation"
+    ],
+    "category": "Financial Metrics"
+  },
+  {
+    "term": "Credit Rating",
+    "url": "https://capital.com//en-int/learn/glossary/c-credit-rating-definition",
+    "aliases": [
+      "Credit Rating",
+      "Credit Score",
+      "Bond Rating",
+      "Creditworthiness Rating"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Commodity-Backed Money",
+    "url": "https://capital.com//en-int/learn/glossary/commodity-backed-money-definition",
+    "aliases": [
+      "Commodity Money",
+      "Backed Currency",
+      "Commodity-Backed Currency"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Replicating Strategy",
+    "url": "https://capital.com//en-int/learn/glossary/replicating-strategy-definition",
+    "aliases": [
+      "Replicating Strategies",
+      "Replication Strategy",
+      "Replication Strategies"
+    ],
+    "category": "Investment Strategies"
+  },
+  {
+    "term": "PSE Index (PSEi)",
+    "url": "https://capital.com//en-int/learn/glossary/pse-index-psei-definition",
+    "aliases": [
+      "PSEi",
+      "Philippine Stock Exchange Index",
+      "PSE Index",
+      "Philippines Stock Index"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Founding Partner",
+    "url": "https://capital.com//en-int/learn/glossary/founding-partner-definition",
+    "aliases": [
+      "Founding Partner",
+      "Founders",
+      "Co-Founding Partner",
+      "Co-Founder",
+      "Founding Member"
+    ],
+    "category": "Entrepreneurship"
+  },
+  {
+    "term": "Scrip Dividends",
+    "url": "https://capital.com//en-int/learn/glossary/list-of-companies-paying-scrip-dividends-definition",
+    "aliases": [
+      "Scrip Dividend",
+      "Scrip Returns",
+      "Script Dividends",
+      "Scrip Payments",
+      "Scrip Shares",
+      "Dividends in Scrip"
+    ],
+    "category": "Dividends"
+  },
+  {
+    "term": "Microprudential Regulation",
+    "url": "https://capital.com//en-int/learn/glossary/microprudential-regulation-definition",
+    "aliases": [
+      "Microprudential Regulation",
+      "Microprudential Oversight",
+      "Microprudential Supervision"
+    ],
+    "category": "Banking Regulation"
+  },
+  {
+    "term": "Purchase Price Adjustment",
+    "url": "https://capital.com//en-int/learn/glossary/purchase-price-adjustment-definition",
+    "aliases": [
+      "Purchase Price Adjustment",
+      "Purchase Price Adjustments",
+      "Price Adjustment",
+      "Purchase Price Modification"
+    ],
+    "category": "Mergers and Acquisitions"
+  },
+  {
+    "term": "Share Buyback",
+    "url": "https://capital.com//en-int/learn/glossary/share-buyback-definition",
+    "aliases": [
+      "Share Buyback",
+      "Share Repurchase",
+      "Stock Buyback",
+      "Stock Repurchase",
+      "Buyback"
+    ],
+    "category": "Corporate Finance"
+  },
+  {
+    "term": "Security Analysis",
+    "url": "https://capital.com//en-int/learn/glossary/security-analysis-definition",
+    "aliases": [
+      "Security Analysis",
+      "Securities Analysis",
+      "Security Evaluation",
+      "Securities Evaluation",
+      "Stock Analysis"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Like-for-Like",
+    "url": "https://capital.com//en-int/learn/glossary/like-for-like-definition",
+    "aliases": [
+      "Like-for-Like Comparison",
+      "Like-for-Like Sales",
+      "LFL",
+      "Same-Store Sales",
+      "Comparable Sales",
+      "Year-on-Year Comparison"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Target Price",
+    "url": "https://capital.com//en-int/learn/glossary/target-price-definition",
+    "aliases": [
+      "Target Price",
+      "Price Target",
+      "Targeted Price"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "Direct Finance",
+    "url": "https://capital.com//en-int/learn/glossary/direct-finance-definition",
+    "aliases": [
+      "Direct Financing",
+      "Direct Finance",
+      "Direct Funds",
+      "Direct Investment"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Financial Integration",
+    "url": "https://capital.com//en-int/learn/glossary/financial-integration-definition",
+    "aliases": [
+      "Financial Integration",
+      "Economic Integration",
+      "Financial Cohesion",
+      "Integrative Finance"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "legal risk",
+    "url": "https://capital.com//en-int/learn/glossary/legal-risk-definition",
+    "aliases": [
+      "legal risks",
+      "regulatory risk",
+      "compliance risk"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "Gross Asset Value",
+    "url": "https://capital.com//en-int/learn/glossary/gross-asset-value-definition",
+    "aliases": [
+      "Gross Asset Value",
+      "GAV",
+      "Total Asset Value"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Hedging Strategy",
+    "url": "https://capital.com//en-int/learn/glossary/hedging-strategy-definition",
+    "aliases": [
+      "Hedging",
+      "Hedging Techniques",
+      "Hedge Strategy",
+      "Hedging Methods"
+    ],
+    "category": "Investment Strategies"
+  },
+  {
+    "term": "Indirect Finance",
+    "url": "https://capital.com//en-int/learn/glossary/indirect-finance-definition",
+    "aliases": [
+      "Indirect Financing",
+      "Indirect Fundraising",
+      "Indirect Capital Raising"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Liquidity Crisis",
+    "url": "https://capital.com//en-int/learn/glossary/liquidity-crisis-definition",
+    "aliases": [
+      "Liquidity Crunch",
+      "Cash Flow Crisis",
+      "Financial Liquidity Crisis",
+      "Liquidity Shortage",
+      "Liquidity Issues",
+      "Liquidity Problem"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Low-Risk Investment",
+    "url": "https://capital.com//en-int/learn/glossary/low-risk-investment-definition",
+    "aliases": [
+      "low-risk investment",
+      "low risk investment",
+      "safe investment",
+      "conservative investment",
+      "low-risk asset"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Mid Price",
+    "url": "https://capital.com//en-int/learn/glossary/mid-price-definition",
+    "aliases": [
+      "Mid Price",
+      "Midpoint Price",
+      "Average Price"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Net Operating Assets",
+    "url": "https://capital.com//en-int/learn/glossary/net-operating-assets-definition",
+    "aliases": [
+      "Net Operating Asset",
+      "NOA",
+      "Operating Assets",
+      "Operating Liabilities"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Nominal Yield",
+    "url": "https://capital.com//en-int/learn/glossary/nominal-yield-definition",
+    "aliases": [
+      "Nominal Yields",
+      "Yield",
+      "Coupon Yield"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Payment Schedule",
+    "url": "https://capital.com//en-int/learn/glossary/payment-schedule-definition",
+    "aliases": [
+      "Payment Schedule",
+      "Payment Plan",
+      "Payment Timeline",
+      "Schedule of Payments",
+      "Payment Schedule Terms"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Price Change",
+    "url": "https://capital.com//en-int/learn/glossary/price-change-definition",
+    "aliases": [
+      "Price Movement",
+      "Price Fluctuation",
+      "Price Alteration",
+      "Price Adjustment",
+      "Price Changes"
+    ],
+    "category": "Market Analysis"
+  },
+  {
+    "term": "Projected Sales",
+    "url": "https://capital.com//en-int/learn/glossary/projected-sales-definition",
+    "aliases": [
+      "Projected Sale",
+      "Forecasted Sales",
+      "Estimated Sales",
+      "Sales Projections",
+      "Sales Forecast"
+    ],
+    "category": "Sales and Revenue"
+  },
+  {
+    "term": "Speculative Demand",
+    "url": "https://capital.com//en-int/learn/glossary/speculative-demand-definition",
+    "aliases": [
+      "Speculative Demand",
+      "Speculative Demand Curve",
+      "Speculative Desires"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "Jensen's Alpha",
+    "url": "https://capital.com//en-int/learn/glossary/jensen-s-alpha-definition",
+    "aliases": [
+      "Jensen's Alpha",
+      "Jensen Alpha",
+      "Alpha coefficient"
+    ],
+    "category": "Investment Performance Metrics"
+  },
+  {
+    "term": "KSE-100 Index",
+    "url": "https://capital.com//en-int/learn/glossary/kse-100-index-definition",
+    "aliases": [
+      "KSE 100 Index",
+      "KSE 100",
+      "Karachi Stock Exchange 100 Index",
+      "KSE Composite Index"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Limits to Arbitrage",
+    "url": "https://capital.com//en-int/learn/glossary/limits-to-arbitrage-definition",
+    "aliases": [
+      "Limits to Arbitrage",
+      "Arbitrage Limits",
+      "Arbitrage Constraints",
+      "Arbitrage Boundaries"
+    ],
+    "category": "Arbitrage"
+  },
+  {
+    "term": "Market Clearing",
+    "url": "https://capital.com//en-int/learn/glossary/market-clearing-definition",
+    "aliases": [
+      "market equilibrium",
+      "clearing price",
+      "market balance",
+      "market-clearing"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "Market Distortion",
+    "url": "https://capital.com//en-int/learn/glossary/market-distortion-definition",
+    "aliases": [
+      "Market Distortion",
+      "Market Inefficiency",
+      "Market Interference",
+      "Distorted Market"
+    ],
+    "category": "Market Analysis"
+  },
+  {
+    "term": "Minimum Acceptable Rate of Return",
+    "url": "https://capital.com//en-int/learn/glossary/minimum-acceptable-rate-of-return-definition",
+    "aliases": [
+      "Minimum Acceptable Rate of Return",
+      "MARR",
+      "hurdle rate",
+      "required rate of return"
+    ],
+    "category": "Investment Terms"
+  },
+  {
+    "term": "Moneyness",
+    "url": "https://capital.com//en-int/learn/glossary/moneyness-definition",
+    "aliases": [
+      "Moneyness",
+      "In-the-money",
+      "At-the-money",
+      "Out-of-the-money",
+      "Moneyness of options"
+    ],
+    "category": "Options Trading"
+  },
+  {
+    "term": "Net Capital Outflow",
+    "url": "https://capital.com//en-int/learn/glossary/net-capital-outflow-definition",
+    "aliases": [
+      "Net Capital Outflow",
+      "NCO",
+      "Capital Outflow",
+      "Outward Capital Flow"
+    ],
+    "category": "International Finance"
+  },
+  {
+    "term": "Nifty 50 Index",
+    "url": "https://capital.com//en-int/learn/glossary/nifty-50-index-definition",
+    "aliases": [
+      "Nifty 50",
+      "Nifty Index",
+      "Nifty 50 Stock Index"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "P-L Attribution",
+    "url": "https://capital.com//en-int/learn/glossary/p-l-attribution-definition",
+    "aliases": [
+      "P&L Attribution",
+      "Profit and Loss Attribution",
+      "P&L Analysis",
+      "Profit and Loss Analysis"
+    ],
+    "category": "Investment Analysis"
+  },
+  {
+    "term": "Potential Future Exposure",
+    "url": "https://capital.com//en-int/learn/glossary/potential-future-exposure-definition",
+    "aliases": [
+      "Potential Future Exposure",
+      "PFE",
+      "Future Exposure",
+      "Expected Future Exposure",
+      "Expected Exposure"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "price signal",
+    "url": "https://capital.com//en-int/learn/glossary/price-signal-definition",
+    "aliases": [
+      "price signals",
+      "signal of price",
+      "pricing signal"
+    ],
+    "category": "Market Analysis"
+  },
+  {
+    "term": "Sales Density",
+    "url": "https://capital.com//en-int/learn/glossary/sales-density-definition",
+    "aliases": [
+      "Sales Density",
+      "Sales Density Ratio",
+      "Sales per Unit Area",
+      "Sales per Square Foot"
+    ],
+    "category": "Sales & Marketing"
+  },
+  {
+    "term": "scrip issue",
+    "url": "https://capital.com//en-int/learn/glossary/scrip-issue-definition",
+    "aliases": [
+      "scrip issue",
+      "scrip issues",
+      "bonus shares",
+      "stock dividend",
+      "share distribution"
+    ],
+    "category": "Corporate Finance"
+  },
+  {
+    "term": "Sesame Credit",
+    "url": "https://capital.com//en-int/learn/glossary/sesame-credit-definition",
+    "aliases": [
+      "Sesame Credit",
+      "Sesame Credits",
+      "Sesame Score",
+      "Sesame Rating"
+    ],
+    "category": "Credit and Lending"
+  },
+  {
+    "term": "Shadow Stock",
+    "url": "https://capital.com//en-int/learn/glossary/shadow-stock-definition",
+    "aliases": [
+      "Shadow Stocks",
+      "Phantom Stock",
+      "Synthetic Equity"
+    ],
+    "category": "Equity Compensation"
+  },
+  {
+    "term": "Shanghai Index",
+    "url": "https://capital.com//en-int/learn/glossary/shanghai-index-definition",
+    "aliases": [
+      "Shanghai Composite",
+      "SSE Composite Index",
+      "Shanghai Stock Index",
+      "SSE Index",
+      "Shanghai Index"
+    ],
+    "category": "Stock Market Indices"
+  },
+  {
+    "term": "Squeeze-out",
+    "url": "https://capital.com//en-int/learn/glossary/squeeze-out-definition",
+    "aliases": [
+      "squeeze out",
+      "squeeze-out",
+      "squeeze-out merger",
+      "minority squeeze-out",
+      "shareholder squeeze-out"
+    ],
+    "category": "Corporate Finance"
+  },
+  {
+    "term": "Stock Market Prediction",
+    "url": "https://capital.com//en-int/learn/glossary/stock-market-prediction-definition",
+    "aliases": [
+      "Stock Market Forecast",
+      "Stock Price Prediction",
+      "Market Prediction",
+      "Stock Forecasting",
+      "Predictions in Stock Market"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Valuation Risk",
+    "url": "https://capital.com//en-int/learn/glossary/valuation-risk-definition",
+    "aliases": [
+      "valuation risk",
+      "valuation risks",
+      "risk of valuation",
+      "valuation uncertainty"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "Volatility Risk",
+    "url": "https://capital.com//en-int/learn/glossary/volatility-risk-definition",
+    "aliases": [
+      "Volatility Risk",
+      "Risk of Volatility",
+      "Market Volatility Risk",
+      "Price Volatility Risk"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "XVA",
+    "url": "https://capital.com//en-int/learn/glossary/xva-definition",
+    "aliases": [
+      "XVA",
+      "Value Adjustment",
+      "Valuation Adjustment",
+      "Pricing Adjustment"
+    ],
+    "category": "Financial Derivatives"
+  },
+  {
+    "term": "Carhart Four-Factor Model",
+    "url": "https://capital.com//en-int/learn/glossary/carhart-four-factor-model-definition",
+    "aliases": [
+      "Carhart Model",
+      "Carhart Four Factor Model",
+      "Four-Factor Model",
+      "Carhart Model of Performance"
+    ],
+    "category": "Investment Analysis"
+  },
+  {
+    "term": "Credit Rating",
+    "url": "https://capital.com//en-int/learn/glossary/cc-credit-rating-definition",
+    "aliases": [
+      "Credit Ratings",
+      "Credit Score",
+      "Bond Rating",
+      "Investment Grade",
+      "Credit Assessment"
+    ],
+    "category": "Credit and Debt"
+  },
+  {
+    "term": "Coherent Risk Measure",
+    "url": "https://capital.com//en-int/learn/glossary/coherent-risk-measure-definition",
+    "aliases": [
+      "Coherent Risk Measure",
+      "Coherent Risk",
+      "Risk Measure",
+      "Coherent Measure"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "Contract Split",
+    "url": "https://capital.com//en-int/learn/glossary/contract-split-definition",
+    "aliases": [
+      "Contract Split",
+      "Contract Splits",
+      "Split Contract"
+    ],
+    "category": "Investment Terms"
+  },
+  {
+    "term": "Feeder Fund",
+    "url": "https://capital.com//en-int/learn/glossary/feeder-fund-definition",
+    "aliases": [
+      "Feeder Funds",
+      "Feeder Fund Structure",
+      "Feeder Investment Fund"
+    ],
+    "category": "Investment Funds"
+  },
+  {
+    "term": "Fixed Deposit",
+    "url": "https://capital.com//en-int/learn/glossary/fixed-deposit-definition",
+    "aliases": [
+      "Fixed Deposit",
+      "FD",
+      "Time Deposit",
+      "Term Deposit"
+    ],
+    "category": "Banking"
+  },
+  {
+    "term": "Convergence Trade",
+    "url": "https://capital.com//en-int/learn/glossary/convergence-trade-definition",
+    "aliases": [
+      "Convergence Trades",
+      "Convergence Trading",
+      "Convergence"
+    ],
+    "category": "Trading Strategies"
+  },
+  {
+    "term": "Credit Rating",
+    "url": "https://capital.com//en-int/learn/glossary/d-credit-rating-definition",
+    "aliases": [
+      "Credit Rating",
+      "Credit Ratings",
+      "Creditworthiness Rating",
+      "Credit Score",
+      "Rating"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Dividend Future",
+    "url": "https://capital.com//en-int/learn/glossary/dividend-future-definition",
+    "aliases": [
+      "Dividend Futures",
+      "Dividend Future Contracts",
+      "Dividend Futures Contracts",
+      "Future Dividend",
+      "Dividend Future Options"
+    ],
+    "category": "Derivatives"
+  },
+  {
+    "term": "Socially Responsible Investing",
+    "url": "https://capital.com//en-int/learn/glossary/socially-responsible-investing-definition",
+    "aliases": [
+      "SRI",
+      "ethical investing",
+      "responsible investing",
+      "sustainable investing",
+      "impact investing"
+    ],
+    "category": "Investment Strategies"
+  },
+  {
+    "term": "Gross Dealer Concession",
+    "url": "https://capital.com//en-int/learn/glossary/gross-dealer-concession-definition",
+    "aliases": [
+      "Gross Dealer Concessions",
+      "GDC",
+      "Dealer Concession"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Jaws Ratio",
+    "url": "https://capital.com//en-int/learn/glossary/jaws-ratio-definition",
+    "aliases": [
+      "Jaws",
+      "Jaws Ratio",
+      "Jaws Metric",
+      "Profitability Ratio"
+    ],
+    "category": "Financial Ratios"
+  },
+  {
+    "term": "Dividend Rights Issue",
+    "url": "https://capital.com//en-int/learn/glossary/dividend-rights-issue-definition",
+    "aliases": [
+      "Dividend Rights",
+      "Rights Issue",
+      "Dividend Issue",
+      "Rights Offering"
+    ],
+    "category": "Corporate Finance"
+  },
+  {
+    "term": "returns",
+    "url": "https://capital.com//en-int/learn/glossary/returns-definition",
+    "aliases": [
+      "return",
+      "investment returns",
+      "financial returns",
+      "returns on investment",
+      "ROI"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Earnings Before Interest, Taxes, and Depreciation",
+    "url": "https://capital.com//en-int/learn/glossary/earnings-before-interest-taxes-and-depreciation-definition",
+    "aliases": [
+      "EBITDA",
+      "Earnings Before Taxes, Interest, and Depreciation",
+      "Earnings Before Interest, Taxes, Depreciation, and Amortization"
+    ],
+    "category": "Financial Metrics"
+  },
+  {
+    "term": "Earnings Response Coefficient",
+    "url": "https://capital.com//en-int/learn/glossary/earnings-response-coefficient-definition",
+    "aliases": [
+      "Earnings Response Coefficient",
+      "ERC"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Equity Linked Note",
+    "url": "https://capital.com//en-int/learn/glossary/equity-linked-note-definition",
+    "aliases": [
+      "Equity Linked Notes",
+      "ELN",
+      "Equity-Linked Note"
+    ],
+    "category": "Debt Instruments"
+  },
+  {
+    "term": "Risk Pool",
+    "url": "https://capital.com//en-int/learn/glossary/risk-pool-definition",
+    "aliases": [
+      "Risk Pooling",
+      "Risk Pool Definition",
+      "Pool of Risks",
+      "Risk Pooling Mechanism"
+    ],
+    "category": "Insurance and Risk Management"
+  },
+  {
+    "term": "Exchange Traded Products (ETP)",
+    "url": "https://capital.com//en-int/learn/glossary/exchange-traded-products-etp-definition",
+    "aliases": [
+      "ETP",
+      "Exchange Traded Product",
+      "Exchange-Traded Products"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Barclays Capital Aggregate Bond Index",
+    "url": "https://capital.com//en-int/learn/glossary/barclays-capital-aggregate-bond-index-definition",
+    "aliases": [
+      "Barclays Aggregate Bond Index",
+      "Barclays Capital Bond Index",
+      "Aggregate Bond Index",
+      "Barclays Bond Index"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Spot Contract",
+    "url": "https://capital.com//en-int/learn/glossary/spot-contract-definition",
+    "aliases": [
+      "Spot Contract",
+      "Cash Contract",
+      "Immediate Contract"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Face Value",
+    "url": "https://capital.com//en-int/learn/glossary/face-value-par-value-principal-definition",
+    "aliases": [
+      "Face Value",
+      "Par Value",
+      "Principal",
+      "Nominal Value"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "Electronic Trading",
+    "url": "https://capital.com//en-int/learn/glossary/electronic-trading-definition",
+    "aliases": [
+      "electronic trading",
+      "e-trading",
+      "online trading",
+      "digital trading"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Financial Market Participants",
+    "url": "https://capital.com//en-int/learn/glossary/financial-market-participants-definition",
+    "aliases": [
+      "Financial Market Participant",
+      "Market Participants",
+      "Market Players",
+      "Investors",
+      "Traders",
+      "Financial Players"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Financial Result",
+    "url": "https://capital.com//en-int/learn/glossary/financial-result-definition",
+    "aliases": [
+      "Financial Results",
+      "Result of Financial Operations",
+      "Financial Performance",
+      "Net Financial Outcome"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Financial Signal Processing",
+    "url": "https://capital.com//en-int/learn/glossary/financial-signal-processing-definition",
+    "aliases": [
+      "Financial Signal Processing",
+      "Signal Processing in Finance",
+      "Financial Data Processing",
+      "Signal Analysis for Finance"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "FIS Company",
+    "url": "https://capital.com//en-int/learn/glossary/fis-company-definition",
+    "aliases": [
+      "FIS",
+      "FIS Corporation",
+      "Fidelity National Information Services",
+      "FIS Companies"
+    ],
+    "category": "Financial Services"
+  },
+  {
+    "term": "Securities Market",
+    "url": "https://capital.com//en-int/learn/glossary/securities-market-definition",
+    "aliases": [
+      "Securities Markets",
+      "Market for Securities",
+      "Securities Exchange",
+      "Capital Market"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "IBEX 35 Index",
+    "url": "https://capital.com//en-int/learn/glossary/ibex-35-index-definition",
+    "aliases": [
+      "IBEX 35",
+      "IBEX Index",
+      "IBEX 35 Stock Index",
+      "IBEX 35 Benchmark"
+    ],
+    "category": "Stock Market Index"
+  },
+  {
+    "term": "Mirror Trading",
+    "url": "https://capital.com//en-int/learn/glossary/mirror-trading-definition",
+    "aliases": [
+      "Mirror Trade",
+      "Replicating Trading",
+      "Copy Trading",
+      "Follow Trading",
+      "Mirror Trading Strategy"
+    ],
+    "category": "Trading Strategies"
+  },
+  {
+    "term": "Top-ups",
+    "url": "https://capital.com//en-int/learn/glossary/top-ups-definition",
+    "aliases": [
+      "Top-up",
+      "Top up",
+      "Funding top-up",
+      "Account top-up"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "TSX 60 Index",
+    "url": "https://capital.com//en-int/learn/glossary/tsx-60-index-definition",
+    "aliases": [
+      "TSX 60",
+      "TSX 60 Index Fund",
+      "S&P/TSX 60 Index",
+      "Toronto Stock Exchange 60 Index"
+    ],
+    "category": "Stock Market Indices"
+  },
+  {
+    "term": "Cash Deposit",
+    "url": "https://capital.com//en-int/learn/glossary/cash-deposit-definition",
+    "aliases": [
+      "Cash Deposits",
+      "Cash Deposit Account",
+      "Deposit in Cash",
+      "Direct Cash Deposit"
+    ],
+    "category": "Banking"
+  },
+  {
+    "term": "Comex",
+    "url": "https://capital.com//en-int/learn/glossary/comex-definition",
+    "aliases": [
+      "Comex",
+      "Commodity Exchange",
+      "Commodities Exchange"
+    ],
+    "category": "Commodity Markets"
+  },
+  {
+    "term": "Dividend Stripping",
+    "url": "https://capital.com//en-int/learn/glossary/dividend-stripping-definition",
+    "aliases": [
+      "dividend strip",
+      "strip dividend",
+      "dividend stripping"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Delta Neutral",
+    "url": "https://capital.com//en-int/learn/glossary/delta-neutral-definition",
+    "aliases": [
+      "Delta Neutral",
+      "Delta-neutral strategy",
+      "Neutral delta position"
+    ],
+    "category": "Investment Strategies"
+  },
+  {
+    "term": "CROCI",
+    "url": "https://capital.com//en-int/learn/glossary/croci-definition",
+    "aliases": [
+      "CROCI",
+      "Cash Return On Capital Invested",
+      "Cash Return on Capital",
+      "Cash ROI"
+    ],
+    "category": "Investment Metrics"
+  },
+  {
+    "term": "China A50 Index",
+    "url": "https://capital.com//en-int/learn/glossary/china-a50-index-definition",
+    "aliases": [
+      "A50 Index",
+      "China A50",
+      "China 50 Index",
+      "FTSE China A50 Index"
+    ],
+    "category": "Indices"
+  },
+  {
+    "term": "Capital Recovery Factor",
+    "url": "https://capital.com//en-int/learn/glossary/capital-recovery-factor-definition",
+    "aliases": [
+      "Capital Recovery Factor",
+      "CRF",
+      "Capital Recovery Rate",
+      "Capital Recovery"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Call Auction",
+    "url": "https://capital.com//en-int/learn/glossary/call-auction-definition",
+    "aliases": [
+      "Call Auction",
+      "Call Auctions",
+      "Auction Call",
+      "Auction Calls"
+    ],
+    "category": "Market Structure"
+  },
+  {
+    "term": "CAC 40 Index",
+    "url": "https://capital.com//en-int/learn/glossary/cac-40-index-definition",
+    "aliases": [
+      "CAC 40",
+      "Cotation Assistée en Continu 40",
+      "French stock market index",
+      "CAC forty"
+    ],
+    "category": "Financial Indices"
+  },
+  {
+    "term": "Bond Warrant",
+    "url": "https://capital.com//en-int/learn/glossary/bond-warrant-definition",
+    "aliases": [
+      "Bond Warrant",
+      "Warrant",
+      "Debt Warrant",
+      "Bond Options"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Income Fund",
+    "url": "https://capital.com//en-int/learn/glossary/income-fund-definition",
+    "aliases": [
+      "Income Funds",
+      "Income Fund Investment",
+      "Income Generating Fund",
+      "Income-Paying Fund"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Copy Trading",
+    "url": "https://capital.com//en-int/learn/glossary/copy-trading-definition",
+    "aliases": [
+      "Copy Trading",
+      "Copy Trading Strategy",
+      "Social Trading",
+      "Copy Trader"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Transferable Securities",
+    "url": "https://capital.com//en-int/learn/glossary/transferable-securities-definition",
+    "aliases": [
+      "Transferable Security",
+      "Securities",
+      "Tradable Securities",
+      "Marketable Securities"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "SSE Composite Index",
+    "url": "https://capital.com//en-int/learn/glossary/sse-composite-index-definition",
+    "aliases": [
+      "Shanghai Stock Exchange Composite Index",
+      "SSE Index",
+      "SSECI",
+      "SSE Composite"
+    ],
+    "category": "Stock Market Index"
+  },
+  {
+    "term": "Commodity ETF",
+    "url": "https://capital.com//en-int/learn/glossary/commodity-etf-definition",
+    "aliases": [
+      "Commodity Exchange-Traded Fund",
+      "Commodity ETFs",
+      "ETF for commodities",
+      "ETF commodity"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Upside Risk",
+    "url": "https://capital.com//en-int/learn/glossary/upside-risk-definition",
+    "aliases": [
+      "upside risk",
+      "potential upside",
+      "positive risk"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "Unlisted Public Company",
+    "url": "https://capital.com//en-int/learn/glossary/unlisted-public-company-definition",
+    "aliases": [
+      "Unlisted Public Company",
+      "Publicly Unlisted Company",
+      "Non-Listed Public Company",
+      "Unlisted Company"
+    ],
+    "category": "Corporate Finance"
+  },
+  {
+    "term": "umbrella fund",
+    "url": "https://capital.com//en-int/learn/glossary/umbrella-fund-definition",
+    "aliases": [
+      "umbrella funds",
+      "master fund",
+      "fund of funds"
+    ],
+    "category": "Investment Funds"
+  },
+  {
+    "term": "Triangular Arbitrage",
+    "url": "https://capital.com//en-int/learn/glossary/triangular-arbitrage-definition",
+    "aliases": [
+      "Triangular Arbitrage",
+      "Triangular Arbitrages",
+      "Arbitrage",
+      "Currency Arbitrage"
+    ],
+    "category": "Arbitrage Strategies"
+  },
+  {
+    "term": "Systematic Trading",
+    "url": "https://capital.com//en-int/learn/glossary/systematic-trading-definition",
+    "aliases": [
+      "Systematic Trading",
+      "Algorithmic Trading",
+      "Quantitative Trading",
+      "Automated Trading",
+      "Systematic Approach"
+    ],
+    "category": "Trading Strategies"
+  },
+  {
+    "term": "Swap Spread",
+    "url": "https://capital.com//en-int/learn/glossary/swap-spread-definition",
+    "aliases": [
+      "Swap Spread",
+      "Swap Rate Spread",
+      "Spread on Swaps"
+    ],
+    "category": "Derivatives"
+  },
+  {
+    "term": "Swap Transaction",
+    "url": "https://capital.com//en-int/learn/glossary/swap-transaction-definition",
+    "aliases": [
+      "Swap",
+      "Swap Agreement",
+      "Swap Deal",
+      "Swap Contract",
+      "Swaps"
+    ],
+    "category": "Derivatives"
+  },
+  {
+    "term": "Subscription Price",
+    "url": "https://capital.com//en-int/learn/glossary/subscription-price-definition",
+    "aliases": [
+      "Subscription Price",
+      "Subscription Fee",
+      "Membership Cost",
+      "Access Fee"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Stock Valuation",
+    "url": "https://capital.com//en-int/learn/glossary/stock-valuation-definition",
+    "aliases": [
+      "Stock Valuation",
+      "Valuation of Stocks",
+      "Equity Valuation",
+      "Stock Price Valuation",
+      "Share Valuation"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Covered Interest Arbitrage",
+    "url": "https://capital.com//en-int/learn/glossary/covered-interest-arbitrage-definition",
+    "aliases": [
+      "Covered Interest Arbitrage",
+      "CIA",
+      "Covered Arbitrage"
+    ],
+    "category": "Foreign Exchange"
+  },
+  {
+    "term": "put option",
+    "url": "https://capital.com//en-int/learn/glossary/put-option-definition",
+    "aliases": [
+      "put option",
+      "put",
+      "selling option",
+      "put contract",
+      "put option contract"
+    ],
+    "category": "Options and Derivatives"
+  },
+  {
+    "term": "Amex Composite Index",
+    "url": "https://capital.com//en-int/learn/glossary/amex-composite-index-definition",
+    "aliases": [
+      "Amex Composite Index",
+      "American Stock Exchange Composite Index",
+      "Amex Composite",
+      "Amex Index"
+    ],
+    "category": "Stock Market Indices"
+  },
+  {
+    "term": "Gross Domestic Product",
+    "url": "https://capital.com//en-int/learn/glossary/gross-domestic-product-definition",
+    "aliases": [
+      "GDP",
+      "Gross Domestic Product",
+      "Gross National Product",
+      "GNP",
+      "Domestic Product"
+    ],
+    "category": "Macroeconomics"
+  },
+  {
+    "term": "Audited Account",
+    "url": "https://capital.com//en-int/learn/glossary/audited-account-definition",
+    "aliases": [
+      "Audited Accounts",
+      "Audit Report",
+      "Financial Audit",
+      "Certified Financial Statement"
+    ],
+    "category": "Accounting"
+  },
+  {
+    "term": "BB Credit Rating",
+    "url": "https://capital.com//en-int/learn/glossary/bb-credit-rating-definition",
+    "aliases": [
+      "BB Rating",
+      "BB Credit Score",
+      "BB Credit Grade",
+      "BB Rating Scale"
+    ],
+    "category": "Credit Ratings"
+  },
+  {
+    "term": "BIST 100 Index",
+    "url": "https://capital.com//en-int/learn/glossary/bist-100-index-definition",
+    "aliases": [
+      "BIST 100",
+      "BIST Index",
+      "BIST 100 Index",
+      "Istanbul Stock Exchange 100 Index"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Global Saving Glut",
+    "url": "https://capital.com//en-int/learn/glossary/global-saving-glut-definition",
+    "aliases": [
+      "Global Saving Glut",
+      "Global Savings Surplus"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "Initial Public Offering",
+    "url": "https://capital.com//en-int/learn/glossary/ipo-initial-public-offering-definition",
+    "aliases": [
+      "IPO",
+      "Initial Public Offering",
+      "initial public offerings",
+      "IPOs"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Nominal vs Real GDP",
+    "url": "https://capital.com//en-int/learn/glossary/nominal-vs-real-gdp-definition",
+    "aliases": [
+      "Nominal GDP",
+      "Real GDP",
+      "Nominal vs Real Gross Domestic Product",
+      "GDP nominal vs real"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "Historical Returns",
+    "url": "https://capital.com//en-int/learn/glossary/historical-returns-definition",
+    "aliases": [
+      "Historical Return",
+      "Historical Investment Returns",
+      "Past Returns",
+      "Historical Performance"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Indian Trading League",
+    "url": "https://capital.com//en-int/learn/glossary/indian-trading-league-definition",
+    "aliases": [
+      "Indian Trading League",
+      "ITL",
+      "Indian Trading Contest",
+      "Indian Trading Competition"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Intermarket Sweep Order",
+    "url": "https://capital.com//en-int/learn/glossary/intermarket-sweep-order-definition",
+    "aliases": [
+      "Intermarket Sweep Order",
+      "ISO",
+      "Intermarket Order"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "JSE Limited",
+    "url": "https://capital.com//en-int/learn/glossary/jse-limited-definition",
+    "aliases": [
+      "JSE",
+      "Johannesburg Stock Exchange",
+      "JSE Exchange",
+      "JSE Ltd"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "K-Factor",
+    "url": "https://capital.com//en-int/learn/glossary/k-factor-actuarial-definition",
+    "aliases": [
+      "K-Factor",
+      "K-Factor Actuarial",
+      "K Factor",
+      "K Factor Actuarial"
+    ],
+    "category": "Actuarial Science"
+  },
+  {
+    "term": "KOSPI Index",
+    "url": "https://capital.com//en-int/learn/glossary/kospi-index-definition",
+    "aliases": [
+      "KOSPI",
+      "Korea Composite Stock Price Index",
+      "Korean Stock Index",
+      "KOSDAQ Index"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Mutual Fund",
+    "url": "https://capital.com//en-int/learn/glossary/mutual-fund-definition",
+    "aliases": [
+      "Mutual Funds",
+      "Investment Fund",
+      "Fund",
+      "Collective Investment Fund"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Absolute Return Funds",
+    "url": "https://capital.com//en-int/learn/glossary/absolute-return-funds-definition",
+    "aliases": [
+      "Absolute Return Fund",
+      "Absolute Return",
+      "AR Funds",
+      "ARF",
+      "Absolute Return Investment"
+    ],
+    "category": "Investment Funds"
+  },
+  {
+    "term": "Loan-Backed Securities",
+    "url": "https://capital.com//en-int/learn/glossary/loan-backed-securities-lbs-definition",
+    "aliases": [
+      "Loan-Backed Security",
+      "LBS",
+      "Asset-Backed Securities",
+      "Mortgage-Backed Securities",
+      "MBS"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Purchasing Power Parity",
+    "url": "https://capital.com//en-int/learn/glossary/purchasing-power-parity-definition",
+    "aliases": [
+      "Purchasing Power Parity",
+      "PPP",
+      "Purchasing Power Parity Theory",
+      "Parity of Purchasing Power"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "Equity Valuation",
+    "url": "https://capital.com//en-int/learn/glossary/equity-valuation-definition",
+    "aliases": [
+      "Equity Valuation",
+      "Stock Valuation",
+      "Share Valuation",
+      "Equity Assessment",
+      "Stock Assessment"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Free Float",
+    "url": "https://capital.com//en-int/learn/glossary/free-float-definition",
+    "aliases": [
+      "Free Float",
+      "Free-float",
+      "Float",
+      "Free Float Shares"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "VWAP",
+    "url": "https://capital.com//en-int/learn/glossary/vwap-definition",
+    "aliases": [
+      "volume-weighted average price",
+      "VWAP",
+      "vwap",
+      "weighted average price"
+    ],
+    "category": "Trading and Technical Analysis"
+  },
+  {
+    "term": "Tangible Assets",
+    "url": "https://capital.com//en-int/learn/glossary/tangible-assets-definition",
+    "aliases": [
+      "Tangible Asset",
+      "Physical Assets",
+      "Material Assets",
+      "Real Assets"
+    ],
+    "category": "Accounting"
+  },
+  {
+    "term": "Margin at Risk",
+    "url": "https://capital.com//en-int/learn/glossary/margin-at-risk-definition",
+    "aliases": [
+      "Margin at Risk",
+      "MaR",
+      "Risk Margin"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "Multi-Manager Investment",
+    "url": "https://capital.com//en-int/learn/glossary/multi-manager-investment-definition",
+    "aliases": [
+      "Multi-Manager",
+      "Multi-Manager Fund",
+      "Multi-Manager Strategy",
+      "Multi-Management Investment"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "supply",
+    "url": "https://capital.com//en-int/learn/glossary/supply-definition",
+    "aliases": [
+      "supply",
+      "supplies",
+      "goods supply",
+      "supply of goods"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "Omega Ratio",
+    "url": "https://capital.com//en-int/learn/glossary/omega-ratio-definition",
+    "aliases": [
+      "Omega Ratio",
+      "Omega measure",
+      "Omega metric"
+    ],
+    "category": "Investment Performance Metrics"
+  },
+  {
+    "term": "OMX Nordic Exchanges",
+    "url": "https://capital.com//en-int/learn/glossary/omx-nordic-exchanges-definition",
+    "aliases": [
+      "OMX Nordic Exchanges",
+      "Nordic Exchanges",
+      "OMX Exchange",
+      "OMX",
+      "Nordic Stock Exchanges"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Operating Partner",
+    "url": "https://capital.com//en-int/learn/glossary/operating-partner-definition",
+    "aliases": [
+      "Operating Partner",
+      "Operation Partner",
+      "Ops Partner",
+      "Operational Partner",
+      "Operational Partners",
+      "Operating Partners"
+    ],
+    "category": "Private Equity"
+  },
+  {
+    "term": "overnight market",
+    "url": "https://capital.com//en-int/learn/glossary/overnight-market-definition",
+    "aliases": [
+      "overnight markets",
+      "overnight lending market",
+      "short-term market"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Post Earnings Announcement Drift",
+    "url": "https://capital.com//en-int/learn/glossary/post-earnings-announcement-drift-definition",
+    "aliases": [
+      "Post Earnings Announcement Drift",
+      "PEAD",
+      "Earnings Drift"
+    ],
+    "category": "Market Behavior"
+  },
+  {
+    "term": "Precautionary Demand",
+    "url": "https://capital.com//en-int/learn/glossary/precautionary-demand-definition",
+    "aliases": [
+      "Precautionary Demand",
+      "Demand for Precaution",
+      "Precautionary Motive",
+      "Precautionary Saving"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "Procyclical and Countercyclical",
+    "url": "https://capital.com//en-int/learn/glossary/procyclical-and-countercyclical-definition",
+    "aliases": [
+      "Procyclical",
+      "Countercyclical",
+      "Procyclical trends",
+      "Countercyclical trends"
+    ],
+    "category": "Economic Indicators"
+  },
+  {
+    "term": "Credit Rating",
+    "url": "https://capital.com//en-int/learn/glossary/rd-credit-rating-definition",
+    "aliases": [
+      "Credit Ratings",
+      "Creditworthiness Rating",
+      "Credit Score",
+      "Rating",
+      "Bond Rating"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Retail Foreign Exchange Trading",
+    "url": "https://capital.com//en-int/learn/glossary/retail-foreign-exchange-trading-definition",
+    "aliases": [
+      "Retail Forex Trading",
+      "Retail FX Trading",
+      "Retail Currency Trading",
+      "Individual Forex Trading"
+    ],
+    "category": "Foreign Exchange"
+  },
+  {
+    "term": "Inflation",
+    "url": "https://capital.com//en-int/learn/glossary/inflation-definition",
+    "aliases": [
+      "inflation rate",
+      "price inflation",
+      "monetary inflation",
+      "inflationary trend",
+      "inflations"
+    ],
+    "category": "Macroeconomics"
+  },
+  {
+    "term": "Risk Metric",
+    "url": "https://capital.com//en-int/learn/glossary/risk-metric-definition",
+    "aliases": [
+      "Risk Metrics",
+      "Risk Measurement",
+      "Risk Assessment Metric",
+      "Risk Indicators"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "SD Credit Rating",
+    "url": "https://capital.com//en-int/learn/glossary/sd-credit-rating-definition",
+    "aliases": [
+      "SD Credit Rating",
+      "Substandard Credit Rating",
+      "Specially Designated Credit Rating",
+      "SD Ratings"
+    ],
+    "category": "Credit Ratings"
+  },
+  {
+    "term": "Shenzhen Stock Exchange",
+    "url": "https://capital.com//en-int/learn/glossary/shenzhen-stock-exchange-definition",
+    "aliases": [
+      "Shenzhen Stock Exchange",
+      "SZSE",
+      "Shenzhen market"
+    ],
+    "category": "Stock Exchanges"
+  },
+  {
+    "term": "Tender Issue",
+    "url": "https://capital.com//en-int/learn/glossary/tender-issue-definition",
+    "aliases": [
+      "Tender Issues",
+      "Tender Offer",
+      "Tender",
+      "Tender Option"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Tadawul All-Share Index",
+    "url": "https://capital.com//en-int/learn/glossary/tadawul-all-share-index-definition",
+    "aliases": [
+      "Tadawul Index",
+      "TASI",
+      "Tadawul All-Share Index",
+      "Tadawul All Share Index"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Taiwan Stock Exchange Capitalization Weighted Stock Index (TAIEX)",
+    "url": "https://capital.com//en-int/learn/glossary/taiwan-stock-exchange-capitalization-weighted-stock-index-taiex-definition",
+    "aliases": [
+      "TAIEX",
+      "Taiwan Stock Exchange Index",
+      "Taiwan Capitalization Weighted Stock Index",
+      "Taiwanese Stock Index"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Securities Offering",
+    "url": "https://capital.com//en-int/learn/glossary/securities-offering-definition",
+    "aliases": [
+      "Securities Offering",
+      "Equity Offering",
+      "Debt Offering",
+      "Public Offering",
+      "Initial Public Offering (IPO)",
+      "Follow-on Offering"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Selling Climax",
+    "url": "https://capital.com//en-int/learn/glossary/selling-climax-definition",
+    "aliases": [
+      "Selling Climax",
+      "Selloff Climax",
+      "Market Climax"
+    ],
+    "category": "Market Terminology"
+  },
+  {
+    "term": "Tangible Common Equity",
+    "url": "https://capital.com//en-int/learn/glossary/tangible-common-equity-definition",
+    "aliases": [
+      "Tangible Common Equity",
+      "TCE",
+      "Common Equity Tier 1 (CET1)",
+      "Tangible Equity",
+      "Shareholder Equity"
+    ],
+    "category": "Equity and Capital Markets"
+  },
+  {
+    "term": "Single Loss Expectancy",
+    "url": "https://capital.com//en-int/learn/glossary/single-loss-expectancy-definition",
+    "aliases": [
+      "Single Loss Expectancy",
+      "SLE",
+      "Loss Expectancy",
+      "Single Loss Estimate"
+    ],
+    "category": "Risk Management"
+  },
+  {
+    "term": "speculative attack",
+    "url": "https://capital.com//en-int/learn/glossary/speculative-attack-definition",
+    "aliases": [
+      "speculative attacks",
+      "currency attack",
+      "capital flight attack"
+    ],
+    "category": "Forex and Currency Trading"
+  },
+  {
+    "term": "State Prices",
+    "url": "https://capital.com//en-int/learn/glossary/state-prices-definition",
+    "aliases": [
+      "State Price",
+      "Pricing State",
+      "State Pricing",
+      "Prices of States"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Stock Market Simulator",
+    "url": "https://capital.com//en-int/learn/glossary/stock-market-simulator-definition",
+    "aliases": [
+      "Stock Market Simulators",
+      "Stock Trading Simulator",
+      "Virtual Stock Market",
+      "Market Simulation Tool"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "The Financial Revolution",
+    "url": "https://capital.com//en-int/learn/glossary/the-financial-revolution-definition",
+    "aliases": [
+      "Financial Revolution",
+      "the revolution in finance",
+      "financial reshaping",
+      "financial transformation"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Watch Fund",
+    "url": "https://capital.com//en-int/learn/glossary/the-watch-fund-definition",
+    "aliases": [
+      "Watch Fund",
+      "Watch Funds",
+      "Monitoring Fund",
+      "Observation Fund"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Time Consistency",
+    "url": "https://capital.com//en-int/learn/glossary/time-consistency-definition",
+    "aliases": [
+      "Time Consistency",
+      "Consistent Time",
+      "Time Consistency Principle"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "trade-off model of capital structure",
+    "url": "https://capital.com//en-int/learn/glossary/trade-off-model-of-capital-structure-definition",
+    "aliases": [
+      "trade-off model",
+      "trade-off capital structure",
+      "trade off model of capital structure",
+      "capital structure trade-off model",
+      "capital structure trade off"
+    ],
+    "category": "Capital Structure"
+  },
+  {
+    "term": "trading jacket",
+    "url": "https://capital.com//en-int/learn/glossary/trading-jacket-definition",
+    "aliases": [
+      "trading jackets",
+      "trade jacket",
+      "trade jackets"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Trading Turret",
+    "url": "https://capital.com//en-int/learn/glossary/trading-turret-definition",
+    "aliases": [
+      "Trading Turret",
+      "Trade Turret",
+      "Turret"
+    ],
+    "category": "Trading"
+  },
+  {
+    "term": "Algorithmic Trading",
+    "url": "https://capital.com//en-int/learn/glossary/algorithmic-trading-definition",
+    "aliases": [
+      "Algorithmic Trading",
+      "Algo Trading",
+      "Automated Trading",
+      "Algorithmic Investment",
+      "Quantitative Trading"
+    ],
+    "category": "Trading Strategies"
+  },
+  {
+    "term": "Monetary Policy",
+    "url": "https://capital.com//en-int/learn/glossary/monetary-policy-definition",
+    "aliases": [
+      "Monetary Policy",
+      "Monetary Policies",
+      "Monetary Regulation",
+      "Interest Rate Policy"
+    ],
+    "category": "Macroeconomics"
+  },
+  {
+    "term": "trading floor",
+    "url": "https://capital.com//en-int/learn/glossary/trading-floor-definition",
+    "aliases": [
+      "trading floor",
+      "trading area",
+      "trading desk",
+      "trading room",
+      "trading platform"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Securities and Exchange Commission (SEC)",
+    "url": "https://capital.com//en-int/learn/glossary/securities-and-exchange-commission-sec-definition",
+    "aliases": [
+      "SEC",
+      "Securities and Exchange Commission",
+      "U.S. Securities and Exchange Commission"
+    ],
+    "category": "Regulatory Agencies"
+  },
+  {
+    "term": "Return on Equity (ROE)",
+    "url": "https://capital.com//en-int/learn/glossary/return-on-equity-roe-definition",
+    "aliases": [
+      "ROE",
+      "Return on Equity",
+      "Return on Net Worth"
+    ],
+    "category": "Financial Ratios"
+  },
+  {
+    "term": "Market Price",
+    "url": "https://capital.com//en-int/learn/glossary/market-price-definition",
+    "aliases": [
+      "Market Price",
+      "Current Price",
+      "Spot Price"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Replicating Portfolio",
+    "url": "https://capital.com//en-int/learn/glossary/replicating-portfolio-definition",
+    "aliases": [
+      "Replicating Portfolio",
+      "Replication Portfolio",
+      "Replicated Portfolio",
+      "Replicating Investment Portfolio",
+      "Portfolio Replication"
+    ],
+    "category": "Investment Strategies"
+  },
+  {
+    "term": "market forces",
+    "url": "https://capital.com//en-int/learn/glossary/market-forces-definition",
+    "aliases": [
+      "market dynamics",
+      "supply and demand",
+      "economic forces",
+      "market factors",
+      "market conditions",
+      "market influences"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "Discount House",
+    "url": "https://capital.com//en-int/learn/glossary/discount-house-definition",
+    "aliases": [
+      "Discount Houses",
+      "Discount Brokerage",
+      "Discount Broker"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Market Efficiency",
+    "url": "https://capital.com//en-int/learn/glossary/market-efficiency-definition",
+    "aliases": [
+      "Market Efficiency",
+      "Efficient Market",
+      "Efficient Market Hypothesis",
+      "Market Efficiency Theory",
+      "Efficient Market Theory"
+    ],
+    "category": "Market Analysis"
+  },
+  {
+    "term": "Interest Rate Risk",
+    "url": "https://capital.com//en-int/learn/glossary/interest-rate-risk-definition",
+    "aliases": [
+      "Interest Rate Risk",
+      "Interest Rate Exposure",
+      "Interest Rate Sensitivity",
+      "IR Risk"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "Tri-Party Agreement",
+    "url": "https://capital.com//en-int/learn/glossary/tri-party-agreement-definition",
+    "aliases": [
+      "Tri-Party Agreements",
+      "Tri-Party Contract",
+      "Tri-Party Arrangement"
+    ],
+    "category": "Financial Agreements"
+  },
+  {
+    "term": "Optimal Capital Structure",
+    "url": "https://capital.com//en-int/learn/glossary/optimal-capital-structure-definition",
+    "aliases": [
+      "Optimal Capital Structure",
+      "Optimal Capital Mix",
+      "Optimal Funding Structure",
+      "Efficient Capital Structure"
+    ],
+    "category": "Corporate Finance"
+  },
+  {
+    "term": "Animal Spirits",
+    "url": "https://capital.com//en-int/learn/glossary/animal-spirits-definition",
+    "aliases": [
+      "Animal Spirit",
+      "Psychological factors in economics",
+      "Investor sentiment",
+      "Market psychology"
+    ],
+    "category": "Behavioral Economics"
+  },
+  {
+    "term": "Microfinance",
+    "url": "https://capital.com//en-int/learn/glossary/microfinance-definition",
+    "aliases": [
+      "Microfinance",
+      "Micro credits",
+      "Micro loans",
+      "Small loans",
+      "Micro-lending"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "NPL",
+    "url": "https://capital.com//en-int/learn/glossary/npl-definition",
+    "aliases": [
+      "non-performing loan",
+      "NPLs",
+      "nonperforming loan",
+      "bad loan"
+    ],
+    "category": "Banking"
+  },
+  {
+    "term": "Financial Institution (FI)",
+    "url": "https://capital.com//en-int/learn/glossary/financial-institution-fi-definition",
+    "aliases": [
+      "Financial Institution",
+      "FI",
+      "Financial Org",
+      "Banking Institution",
+      "Financial Services Company"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Hawks and Doves",
+    "url": "https://capital.com//en-int/learn/glossary/hawks-and-doves-definition",
+    "aliases": [
+      "Hawk",
+      "Dove",
+      "Monetary Hawk",
+      "Monetary Dove",
+      "Inflation Hawk",
+      "Inflation Dove",
+      "Interest Rate Hawk",
+      "Interest Rate Dove"
+    ],
+    "category": "Monetary Policy"
+  },
+  {
+    "term": "Basket of Goods",
+    "url": "https://capital.com//en-int/learn/glossary/basket-of-goods-definition",
+    "aliases": [
+      "basket of goods",
+      "baskets of goods",
+      "goods basket",
+      "goods baskets"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "Staking",
+    "url": "https://capital.com//en-int/learn/glossary/staking-definition",
+    "aliases": [
+      "Stake",
+      "Staked assets",
+      "Staking rewards",
+      "Proof of stake"
+    ],
+    "category": "Cryptocurrency"
+  },
+  {
+    "term": "Endowment Fund",
+    "url": "https://capital.com//en-int/learn/glossary/endowment-fund-definition",
+    "aliases": [
+      "Endowment Fund",
+      "Endowment",
+      "Endowed Fund",
+      "Foundation Fund"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Monetary Value",
+    "url": "https://capital.com//en-int/learn/glossary/monetary-value-definition",
+    "aliases": [
+      "Monetary Value",
+      "Monetary Values",
+      "Value in currency",
+      "Economic value"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Funds Management",
+    "url": "https://capital.com//en-int/learn/glossary/funds-management-definition",
+    "aliases": [
+      "Funds Management",
+      "Fund Management",
+      "Asset Management",
+      "Portfolio Management"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Cryptocurrency",
+    "url": "https://capital.com//en-int/learn/glossary/cryptocurrency-definition",
+    "aliases": [
+      "Cryptocurrency",
+      "Crypto",
+      "Digital currency",
+      "Virtual currency",
+      "Cryptos"
+    ],
+    "category": "Digital Finance"
+  },
+  {
+    "term": "Blockchain Technology",
+    "url": "https://capital.com//en-int/learn/glossary/blockchain-technology-definition",
+    "aliases": [
+      "Blockchain",
+      "Distributed Ledger Technology",
+      "DLT",
+      "Blockchain System",
+      "Blockchain Tech"
+    ],
+    "category": "Technology and Innovation in Finance"
+  },
+  {
+    "term": "Crypto Mining",
+    "url": "https://capital.com//en-int/learn/glossary/crypto-mining-definition",
+    "aliases": [
+      "Cryptocurrency Mining",
+      "Crypto-Mining",
+      "Crypto Miner",
+      "Mining",
+      "Digital Currency Mining"
+    ],
+    "category": "Cryptocurrency"
+  },
+  {
+    "term": "Currency Peg",
+    "url": "https://capital.com//en-int/learn/glossary/currency-peg-definition",
+    "aliases": [
+      "Currency Peg",
+      "Currency Pegging",
+      "Pegged Currency",
+      "Fixed Exchange Rate",
+      "Peg"
+    ],
+    "category": "Foreign Exchange"
+  },
+  {
+    "term": "Node Definition",
+    "url": "https://capital.com//en-int/learn/glossary/node-definition",
+    "aliases": [
+      "Node Definition",
+      "Node",
+      "Definition of Node",
+      "Node's Definition",
+      "Definitions of Nodes",
+      "Node Descriptions"
+    ],
+    "category": "Cryptocurrency"
+  },
+  {
+    "term": "OPEC",
+    "url": "https://capital.com//en-int/learn/glossary/opec-definition",
+    "aliases": [
+      "OPEC",
+      "Organization of the Petroleum Exporting Countries",
+      "OPEC members",
+      "OPEC nations"
+    ],
+    "category": "Energy and Commodities"
+  },
+  {
+    "term": "Representative Money",
+    "url": "https://capital.com//en-int/learn/glossary/representative-money-definition",
+    "aliases": [
+      "Representative Money",
+      "Representational Currency",
+      "Symbolic Money"
+    ],
+    "category": "Monetary Systems"
+  },
+  {
+    "term": "Risk-On Risk-Off",
+    "url": "https://capital.com//en-int/learn/glossary/risk-on-risk-off-definition",
+    "aliases": [
+      "Risk-On",
+      "Risk-Off",
+      "Risk On Risk Off",
+      "Roro"
+    ],
+    "category": "Investment Strategy"
+  },
+  {
+    "term": "Fully Diluted Market Capitalisation",
+    "url": "https://capital.com//en-int/learn/glossary/fully-diluted-market-capitalisation-in-cryptocurrency-definition",
+    "aliases": [
+      "Fully Diluted Market Cap",
+      "FDMC",
+      "Fully Diluted Capitalisation",
+      "Fully Diluted Market Capitalization"
+    ],
+    "category": "Cryptocurrency"
+  },
+  {
+    "term": "International Monetary Fund (IMF)",
+    "url": "https://capital.com//en-int/learn/glossary/international-monetary-fund-imf-definition",
+    "aliases": [
+      "IMF",
+      "International Monetary Fund",
+      "Monetary Fund"
+    ],
+    "category": "International Finance"
+  },
+  {
+    "term": "EBITDA",
+    "url": "https://capital.com//en-int/learn/glossary/ebitda-definition",
+    "aliases": [
+      "EBITDA",
+      "Earnings Before Interest, Taxes, Depreciation, and Amortization",
+      "Earnings Before Interest and Taxes",
+      "Operating Income",
+      "EBITDA Margin"
+    ],
+    "category": "Financial Metrics"
+  },
+  {
+    "term": "Kyoto Protocol",
+    "url": "https://capital.com//en-int/learn/glossary/kyoto-protocol-definition",
+    "aliases": [
+      "Kyoto Protocol",
+      "Kyoto Agreement",
+      "Protocol",
+      "Kyoto Treaty"
+    ],
+    "category": "Environmental Finance"
+  },
+  {
+    "term": "BEP-20 Tokens",
+    "url": "https://capital.com//en-int/learn/glossary/bep-20-tokens-definition",
+    "aliases": [
+      "BEP20 Tokens",
+      "BEP 20 Tokens",
+      "BEP-20",
+      "BEP-20 token"
+    ],
+    "category": "Cryptocurrency"
+  },
+  {
+    "term": "Web3",
+    "url": "https://capital.com//en-int/learn/glossary/web3-definition",
+    "aliases": [
+      "Web 3.0",
+      "Semantic Web",
+      "Decentralized Web",
+      "Web3.0",
+      "Web three"
+    ],
+    "category": "Blockchain Technologies"
+  },
+  {
+    "term": "Deep Discount Bond",
+    "url": "https://capital.com//en-int/learn/glossary/deep-discount-bond-definition",
+    "aliases": [
+      "Deep Discount Bonds",
+      "Discount Bond",
+      "Discount Bonds"
+    ],
+    "category": "Bonds"
+  },
+  {
+    "term": "Open Position",
+    "url": "https://capital.com//en-int/learn/glossary/open-position-definition",
+    "aliases": [
+      "Open Positions",
+      "Open Trade",
+      "Open Trades",
+      "Position"
+    ],
+    "category": "Trading Terms"
+  },
+  {
+    "term": "Capital Goods",
+    "url": "https://capital.com//en-int/learn/glossary/capital-goods-definition",
+    "aliases": [
+      "Capital Good",
+      "Producer Goods",
+      "Investment Goods",
+      "Durable Goods"
+    ],
+    "category": "Economics"
+  },
+  {
+    "term": "Del Credere Agency",
+    "url": "https://capital.com//en-int/learn/glossary/del-credere-agency-definition",
+    "aliases": [
+      "Del Credere Agency",
+      "Del Credere",
+      "Del Credere Agent",
+      "Del Credere Agents"
+    ],
+    "category": "Agency and Brokerage"
+  },
+  {
+    "term": "ISM Manufacturing",
+    "url": "https://capital.com//en-int/learn/glossary/ism-manufacturing-definition",
+    "aliases": [
+      "ISM",
+      "ISM Manufacturing Index",
+      "Institute for Supply Management Manufacturing",
+      "Manufacturing ISM",
+      "ISM Manufacturing Survey"
+    ],
+    "category": "Economic Indicators"
+  },
+  {
+    "term": "Index Divisor",
+    "url": "https://capital.com//en-int/learn/glossary/index-divisor-definition",
+    "aliases": [
+      "index divisor",
+      "divisor",
+      "stock index divisor",
+      "divisor for index"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Expected Monetary Value (EMV)",
+    "url": "https://capital.com//en-int/learn/glossary/expected-monetary-value-emv-definition",
+    "aliases": [
+      "Expected Monetary Value",
+      "EMV",
+      "Monetary Value Expectation"
+    ],
+    "category": "Financial Analysis"
+  },
+  {
+    "term": "Perpetual Option",
+    "url": "https://capital.com//en-int/learn/glossary/perpetual-option-xpo-definition",
+    "aliases": [
+      "Perpetual Options",
+      "XPO",
+      "Perpetual Call Option",
+      "Perpetual Put Option"
+    ],
+    "category": "Options Trading"
+  },
+  {
+    "term": "Modified Accrual Accounting",
+    "url": "https://capital.com//en-int/learn/glossary/modified-accrual-accounting-definition",
+    "aliases": [
+      "Modified Accrual Basis",
+      "Accrual Accounting",
+      "Modified Accrual Method",
+      "Modified Accrual"
+    ],
+    "category": "Accounting"
+  },
+  {
+    "term": "Policy Mix",
+    "url": "https://capital.com//en-int/learn/glossary/policy-mix-definition",
+    "aliases": [
+      "Policy Mix",
+      "Mix of Policies",
+      "Economic Policy Mix"
+    ],
+    "category": "Economic Policy"
+  },
+  {
+    "term": "Telegraphic Transfer (TT)",
+    "url": "https://capital.com//en-int/learn/glossary/telegraphic-transfer-tt-definition",
+    "aliases": [
+      "TT",
+      "Telegraphic transfer",
+      "Wire transfer",
+      "Telegraphic payment"
+    ],
+    "category": "Payments and Transfers"
+  },
+  {
+    "term": "Paydown",
+    "url": "https://capital.com//en-int/learn/glossary/paydown-definition",
+    "aliases": [
+      "Paydown",
+      "Debt Paydown",
+      "Loan Paydown",
+      "Principal Paydown"
+    ],
+    "category": "Debt Management"
+  },
+  {
+    "term": "Crossed Market",
+    "url": "https://capital.com//en-int/learn/glossary/crossed-market-definition",
+    "aliases": [
+      "Crossed Markets",
+      "Crossed Market",
+      "Crossed Pricing",
+      "Cross Market"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Cum Dividend",
+    "url": "https://capital.com//en-int/learn/glossary/cum-dividend-definition",
+    "aliases": [
+      "Cum Dividends",
+      "Cum Dividend Policy",
+      "With Dividend",
+      "Cumulative Dividend"
+    ],
+    "category": "Dividends"
+  },
+  {
+    "term": "Automated Market Making (AMM)",
+    "url": "https://capital.com//en-int/learn/glossary/automated-market-making-amm-definition",
+    "aliases": [
+      "Automated Market Maker",
+      "AMM",
+      "Auto Market Maker",
+      "Automated Market-Making",
+      "automated market making"
+    ],
+    "category": "Cryptocurrency"
+  },
+  {
+    "term": "Displaced Moving Average (DMA)",
+    "url": "https://capital.com//en-int/learn/glossary/displaced-moving-average-dma-definition",
+    "aliases": [
+      "Displaced Moving Average",
+      "DMA",
+      "Displaced Average",
+      "Moving Average",
+      "Moving Averages"
+    ],
+    "category": "Technical Analysis"
+  },
+  {
+    "term": "Marginal Cost of Funds",
+    "url": "https://capital.com//en-int/learn/glossary/marginal-cost-of-funds-definition",
+    "aliases": [
+      "Marginal Cost of Funds",
+      "Cost of Funds",
+      "Marginal Funding Cost"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Asset Valuation",
+    "url": "https://capital.com//en-int/learn/glossary/asset-valuation-definition",
+    "aliases": [
+      "Asset Valuation",
+      "Asset Assessment",
+      "Valuation of Assets",
+      "Asset Value",
+      "Valuing Assets",
+      "Asset Valuations"
+    ],
+    "category": "Valuation and Investment"
+  },
+  {
+    "term": "Expected Return",
+    "url": "https://capital.com//en-int/learn/glossary/expected-return-definition",
+    "aliases": [
+      "Expected Return",
+      "Expected Returns",
+      "Mean Return",
+      "Average Return"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Rational Behaviour",
+    "url": "https://capital.com//en-int/learn/glossary/rational-behaviour-definition",
+    "aliases": [
+      "Rational Behavior",
+      "Rational Decision Making",
+      "Rational Actions",
+      "Rational Choices"
+    ],
+    "category": "Behavioral Finance"
+  },
+  {
+    "term": "Green Tech",
+    "url": "https://capital.com//en-int/learn/glossary/green-tech-definition",
+    "aliases": [
+      "Green Technology",
+      "Sustainable Technology",
+      "Clean Technology",
+      "Eco-friendly Technology",
+      "Green Tech"
+    ],
+    "category": "Environmental Finance"
+  },
+  {
+    "term": "Delivered Duty Unpaid (DDU)",
+    "url": "https://capital.com//en-int/learn/glossary/delivered-duty-unpaid-ddu-definition",
+    "aliases": [
+      "Delivered Duty Unpaid",
+      "DDU",
+      "Delivery Duty Unpaid",
+      "Delivered Duty Unpaid term"
+    ],
+    "category": "International Trade"
+  },
+  {
+    "term": "Producer Surplus",
+    "url": "https://capital.com//en-int/learn/glossary/producer-surplus-definition",
+    "aliases": [
+      "producer surplus",
+      "producer surplus value",
+      "surplus produced",
+      "surplus for producers"
+    ],
+    "category": "Microeconomics"
+  },
+  {
+    "term": "sampling",
+    "url": "https://capital.com//en-int/learn/glossary/sampling-definition",
+    "aliases": [
+      "sample",
+      "sampling method",
+      "sampling techniques",
+      "sample selection",
+      "sample size"
+    ],
+    "category": "Statistical Analysis"
+  },
+  {
+    "term": "Non-Renounceable Rights",
+    "url": "https://capital.com//en-int/learn/glossary/non-renounceable-rights-definition",
+    "aliases": [
+      "Non-Renounceable Rights",
+      "Non-renounceable rights",
+      "Rights Issue",
+      "Subscription Rights"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Sell-off",
+    "url": "https://capital.com//en-int/learn/glossary/sell-off-definition",
+    "aliases": [
+      "sell off",
+      "selloff",
+      "market sell-off",
+      "price drop",
+      "stock sell-off"
+    ],
+    "category": "Market Events"
+  },
+  {
+    "term": "Year to Date",
+    "url": "https://capital.com//en-int/learn/glossary/year-to-date-definition",
+    "aliases": [
+      "YTD",
+      "Year-to-Date",
+      "year to date",
+      "YTD value"
+    ],
+    "category": "Financial Metrics"
+  },
+  {
+    "term": "Cost Approach",
+    "url": "https://capital.com//en-int/learn/glossary/cost-approach-definition",
+    "aliases": [
+      "Cost Approach",
+      "Cost Method",
+      "Cost Valuation",
+      "Cost-Based Approach"
+    ],
+    "category": "Real Estate Valuation"
+  },
+  {
+    "term": "risk assets",
+    "url": "https://capital.com//en-int/learn/glossary/risk-assets-definition",
+    "aliases": [
+      "risk asset",
+      "risky assets",
+      "risky asset"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Stagflation",
+    "url": "https://capital.com//en-int/learn/glossary/stagflation-definition",
+    "aliases": [
+      "Stagflation",
+      "Stagnation and inflation",
+      "Economic stagnation with inflation"
+    ],
+    "category": "Economic Terms"
+  },
+  {
+    "term": "NASDAQ Stock Exchange",
+    "url": "https://capital.com//en-int/learn/glossary/nasdaq-stock-exchange-definition",
+    "aliases": [
+      "NASDAQ",
+      "NASDAQ Exchange",
+      "National Association of Securities Dealers Automated Quotations",
+      "NASDAQ Stock Market"
+    ],
+    "category": "Stock Market"
+  },
+  {
+    "term": "Digital Assets",
+    "url": "https://capital.com//en-int/learn/glossary/digital-assets-definition",
+    "aliases": [
+      "Digital Asset",
+      "Cryptocurrency",
+      "Virtual Asset",
+      "Token",
+      "Crypto Asset"
+    ],
+    "category": "Cryptocurrency"
+  },
+  {
+    "term": "Geographical Diversification",
+    "url": "https://capital.com//en-int/learn/glossary/geographical-diversification-definition",
+    "aliases": [
+      "Geographical Diversification",
+      "Geographic Diversification",
+      "Geographical Diversification Strategy",
+      "Regional Diversification",
+      "Diversification by Geography",
+      "Location Diversification"
+    ],
+    "category": "Investment Strategy"
+  },
+  {
+    "term": "Stock Picking",
+    "url": "https://capital.com//en-int/learn/glossary/stock-picking-definition",
+    "aliases": [
+      "stock selection",
+      "equity picking",
+      "stock picking strategy",
+      "stock choosing"
+    ],
+    "category": "Investing"
+  },
+  {
+    "term": "Last Twelve Months",
+    "url": "https://capital.com//en-int/learn/glossary/last-twelve-months-definition",
+    "aliases": [
+      "LTM",
+      "Last 12 Months",
+      "Twelve-Month Period",
+      "Trailing Twelve Months"
+    ],
+    "category": "Financial Metrics"
+  },
+  {
+    "term": "FTSE Futures",
+    "url": "https://capital.com//en-int/learn/glossary/ftse-futures-definition",
+    "aliases": [
+      "FTSE Future",
+      "FTSE Index Futures",
+      "Futures on FTSE",
+      "FTSE 100 Futures"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "Global Registered Share (GRS)",
+    "url": "https://capital.com//en-int/learn/glossary/global-registered-share-grs-definition",
+    "aliases": [
+      "Global Registered Share",
+      "GRS",
+      "Global Share",
+      "Registered Share"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Price Level",
+    "url": "https://capital.com//en-int/learn/glossary/price-level-definition",
+    "aliases": [
+      "price levels",
+      "price index",
+      "cost level",
+      "average price level"
+    ],
+    "category": "Macroeconomics"
+  },
+  {
+    "term": "Imports and Exports",
+    "url": "https://capital.com//en-int/learn/glossary/imports-exports-definition",
+    "aliases": [
+      "Import and Export",
+      "Imports",
+      "Exports",
+      "Importing and Exporting"
+    ],
+    "category": "Trade"
+  },
+  {
+    "term": "Stalking Horse Bidder",
+    "url": "https://capital.com//en-int/learn/glossary/stalking-horse-bidder-definition",
+    "aliases": [
+      "Stalking Horse",
+      "Stalking Horse Bid",
+      "Stalking Horse Offer",
+      "Stalking Horse Bidders"
+    ],
+    "category": "Bankruptcy and Restructuring"
+  },
+  {
+    "term": "Fundo de Investimento em Direitos Creditórios",
+    "url": "https://capital.com//en-int/learn/glossary/fundo-de-investimento-em-direitos-credit-rios-definition",
+    "aliases": [
+      "Fundo de Investimento em Direitos Creditórios",
+      "FIDC",
+      "Fundos de Investimento em Direitos Creditórios",
+      "Fundo de crédito",
+      "Fundo de investimentos em crédito"
+    ],
+    "category": "Investments"
+  },
+  {
+    "term": "Overnight Funding Adjustment",
+    "url": "https://capital.com//en-int/learn/glossary/overnight-funding-adjustment-definition",
+    "aliases": [
+      "Overnight Funding Adjustments",
+      "Overnight Funding",
+      "Funding Adjustment",
+      "Funding Adjustments"
+    ],
+    "category": "Finance"
+  },
+  {
+    "term": "Shanghai Stock Exchange",
+    "url": "https://capital.com//en-int/learn/glossary/shanghai-stock-exchange-definition",
+    "aliases": [
+      "Shanghai Stock Exchange",
+      "SSE"
+    ],
+    "category": "Stock Markets"
+  },
+  {
+    "term": "Sentimental Value",
+    "url": "https://capital.com//en-int/learn/glossary/sentimental-value-definition",
+    "aliases": [
+      "Sentimental Value",
+      "Emotional Value",
+      "Non-monetary Value",
+      "Subjective Value"
+    ],
+    "category": "Valuation"
+  },
+  {
+    "term": "NASDAQ 100 Volatility Index",
+    "url": "https://capital.com//en-int/learn/glossary/nasdaq-100-volatility-index-definition",
+    "aliases": [
+      "NASDAQ 100 Volatility Index",
+      "VXN",
+      "Volatility Index for NASDAQ 100",
+      "NASDAQ 100 VIX"
+    ],
+    "category": "Market Indices"
+  },
+  {
+    "term": "Layering",
+    "url": "https://capital.com//en-int/learn/glossary/layering-definition",
+    "aliases": [
+      "Layering",
+      "Layering transactions",
+      "Layering scheme"
+    ],
+    "category": "Fraud Prevention"
+  },
+  {
+    "term": "Hedge Fund",
+    "url": "https://capital.com//en-int/learn/glossary/hedge-fund-definition",
+    "aliases": [
+      "Hedge Funds",
+      "Hedge Fund Strategies",
+      "Hedge Fund Investment",
+      "Hedge Fund Management"
+    ],
+    "category": "Investment"
+  },
+  {
+    "term": "Delta",
+    "url": "https://capital.com//en-int/learn/glossary/delta-definition",
+    "aliases": [
+      "Delta",
+      "Delta value",
+      "Option Delta",
+      "Delta coefficient"
+    ],
+    "category": "Options Trading"
+  },
+  {
+    "term": "Composite Index",
+    "url": "https://capital.com//en-int/learn/glossary/composite-index-definition",
+    "aliases": [
+      "Composite Index",
+      "Composite Indices",
+      "Index Composite"
+    ],
+    "category": "Financial Markets"
+  },
+  {
+    "term": "CNBC Ticker",
+    "url": "https://capital.com//en-int/learn/glossary/cnbc-ticker-definition",
+    "aliases": [
+      "CNBC Ticker",
+      "Ticker Symbol",
+      "Ticker",
+      "Stock Ticker"
+    ],
+    "category": "Financial Markets"
+  }
+]
