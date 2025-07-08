@@ -29,9 +29,19 @@ class EnhancedInternalLinker:
             nlp_model: spaCy model name to use
         """
         self.glossary_file = glossary_file
-        self.nlp = spacy.load(nlp_model)
+        self.nlp_model = nlp_model
         self.glossary_terms = self._load_glossary_terms()
         self.term_to_url_map = self._create_term_mapping()
+        
+        # Load spaCy model with fallback
+        self.nlp = None
+        try:
+            self.nlp = spacy.load(nlp_model)
+            logger.info(f"Loaded spaCy model: {nlp_model}")
+        except OSError:
+            logger.warning(f"spaCy model {nlp_model} not found. Using basic text processing.")
+        except Exception as e:
+            logger.warning(f"Error loading spaCy model: {e}. Using basic text processing.")
         
     def _load_glossary_terms(self) -> List[Dict]:
         """

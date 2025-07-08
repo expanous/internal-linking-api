@@ -1,1 +1,1 @@
-web: python -m spacy download en_core_web_sm && python -m uvicorn api_internal_linking:app --host 0.0.0.0 --port 8000 
+web: python -m uvicorn api_internal_linking:app --host 0.0.0.0 --port 8000 
