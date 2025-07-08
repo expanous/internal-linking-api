@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: internal-linking-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api_internal_linking:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PORT
+        value: 8000
+    healthCheckPath: /health
+    autoDeploy: true 

@@ -1,0 +1,16 @@
+name: internal-linking-api
+services:
+- name: api
+  source_dir: /
+  github:
+    repo: expanous/internal-linking-api
+    branch: main
+  run_command: uvicorn api_internal_linking:app --host 0.0.0.0 --port $PORT
+  environment_slug: python
+  instance_count: 1
+  instance_size_slug: basic-xxs
+  health_check:
+    http_path: /health
+  envs:
+  - key: PORT
+    value: "8000" 
