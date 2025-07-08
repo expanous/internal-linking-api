@@ -54,3 +54,4 @@ demo-*.html
 
 # spaCy models (will be downloaded during build)
 *.tar.gz 
+.vercel
