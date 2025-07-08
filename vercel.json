@@ -11,10 +11,5 @@
       "src": "/(.*)",
       "dest": "api_internal_linking.py"
     }
-  ],
-  "functions": {
-    "api_internal_linking.py": {
-      "maxDuration": 30
-    }
-  }
+  ]
 } 
