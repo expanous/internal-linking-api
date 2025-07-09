@@ -462,7 +462,7 @@ class EnhancedInternalLinker:
                     if links_added >= available_slots:
                         break
                     original_text = text_content[m['start']:m['end']]
-                    html_link = f'<a href="{m['url']}">{original_text}</a>'
+                    html_link = f'<a href="{m["url"]}">{original_text}</a>'
                     text_content = text_content[:m['start']] + html_link + text_content[m['end']:]
                     links_added += 1
                 new_soup = BeautifulSoup(text_content, 'html.parser')
