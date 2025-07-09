@@ -396,6 +396,7 @@ class EnhancedInternalLinker:
     def create_html_links(self, article_file: str, output_file: str = None, max_links: int = 12) -> str:
         """
         Create HTML version with internal links, avoiding existing links and self-links.
+        Improved: Prevent overlapping/nested links by selecting non-overlapping matches.
         """
         try:
             with open(article_file, 'r', encoding='utf-8') as f:
@@ -426,7 +427,6 @@ class EnhancedInternalLinker:
             logger.info("No new links will be added - article already has maximum links")
             return content
 
-        # Track used URLs across all text nodes
         used_urls = set()
         links_added = 0
 
@@ -436,18 +436,34 @@ class EnhancedInternalLinker:
             if element.parent.name != 'a':
                 text_nodes.append(element)
 
-        # Process each text node for matches
         for text_node in text_nodes:
             if text_node.strip() and links_added < available_slots:
                 matches = self._find_matches_with_tracking(str(text_node), used_urls, available_slots - links_added, current_url)
-                matches.sort(key=lambda x: x[2], reverse=True)
+                # Build match dicts for overlap selection
+                match_objs = [
+                    {'start': start, 'end': end, 'term': term, 'url': url, 'length': end - start}
+                    for term, url, start, end in matches
+                ]
+                # Select maximal set of non-overlapping matches (prefer longer, then earlier)
+                match_objs.sort(key=lambda m: (-m['length'], m['start']))
+                selected = []
+                occupied = set()
+                for m in match_objs:
+                    rng = set(range(m['start'], m['end']))
+                    if occupied & rng:
+                        continue
+                    selected.append(m)
+                    occupied.update(rng)
+                # Sort by start for left-to-right replacement
+                selected.sort(key=lambda m: m['start'])
+                # Replace from end to start to avoid index shifting
                 text_content = str(text_node)
-                for term, url, start, end in matches:
+                for m in reversed(selected):
                     if links_added >= available_slots:
                         break
-                    original_text = text_content[start:end]
-                    html_link = f'<a href="{url}">{original_text}</a>'
-                    text_content = text_content[:start] + html_link + text_content[end:]
+                    original_text = text_content[m['start']:m['end']]
+                    html_link = f'<a href="{m['url']}">{original_text}</a>'
+                    text_content = text_content[:m['start']] + html_link + text_content[m['end']:]
                     links_added += 1
                 new_soup = BeautifulSoup(text_content, 'html.parser')
                 text_node.replace_with(new_soup)
